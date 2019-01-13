@@ -1,0 +1,515 @@
+{
+  "status":0,
+  "obj": {
+    "data": [
+      {
+        "name": "滨江街",
+        "value": 43,
+        "ranking": 1,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "昌岗街",
+        "value": 75,
+        "ranking": 2,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "赤岗街",
+        "value": 87,
+        "ranking": 3,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "凤阳街",
+        "value": 77,
+        "ranking": 4,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "官洲街",
+        "value": 21,
+        "ranking": 5,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "海幢街",
+        "value": 90,
+        "ranking": 6,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "华洲街",
+        "value": 67,
+        "ranking": 7,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "江海街",
+        "value": 32,
+        "ranking": 8,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "江南中街",
+        "value": 55,
+        "ranking": 9,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "龙凤街",
+        "value": 78,
+        "ranking": 10,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "南华西街",
+        "value": 45,
+        "ranking": 11,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "南石头街",
+        "value": 78,
+        "ranking": 12,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "南洲街",
+        "value": 43,
+        "ranking": 13,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "琶洲街",
+        "value": 33,
+        "ranking": 14,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "瑞宝街",
+        "value": 1,
+        "ranking": 15,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "沙园街",
+        "value": 22,
+        "ranking": 16,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "素社街",
+        "value": 44,
+        "ranking": 17,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      },
+      {
+        "name": "新港街",
+        "value": 55,
+        "ranking": 18,
+        "industrys": [
+          {
+            "name": "即时公示未公示",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "未按时年报",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "实地查无",
+            "count": 124,
+            "ratio": 1.63
+          },
+          {
+            "name": "年报造假案件",
+            "count": 124,
+            "ratio": -1.3
+          }
+        ]
+      }
+    ],
+    "streetTOP5": [
+      {
+        "name": "赤岗",
+        "value": 48
+      },
+      {
+        "name": "新港",
+        "value": 32
+      },
+      {
+        "name": "昌岗",
+        "value": 28
+      },
+      {
+        "name": "滨江",
+        "value": 16
+      },
+      {
+        "name": "琶洲",
+        "value": 14
+      }
+    ]
+  }
+}

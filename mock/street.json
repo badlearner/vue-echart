@@ -1,0 +1,58 @@
+{
+  "status":0,
+  "obj": [{
+    "name": "滨江街",
+    "selected":false
+  },{
+    "name": "昌岗街",
+    "selected":false
+  },{
+    "name": "赤岗街",
+    "selected":false
+  },{
+    "name": "凤阳街",
+    "selected":false
+  },{
+    "name": "官洲街",
+    "selected":false
+  },{
+    "name": "海幢街",
+    "selected":false
+  },{
+    "name": "华洲街",
+    "selected":false
+  },{
+    "name": "江海街",
+    "selected":false
+  },{
+    "name": "江南中街",
+    "selected":false
+  },{
+    "name": "龙凤街",
+    "selected":false
+  },{
+    "name": "南华西街",
+    "selected":false
+  },{
+    "name": "南石头街",
+    "selected":false
+  },{
+    "name": "南洲街",
+    "selected":false
+  },{
+    "name": "琶洲街",
+    "selected":false
+  },{
+    "name": "瑞宝街",
+    "selected":false
+  },{
+    "name": "沙园街",
+    "selected":false
+  },{
+    "name": "素社街",
+    "selected":false
+  },{
+    "name": "新港街",
+    "selected":false
+  }]
+}

@@ -1,0 +1,132 @@
+@color: #333;
+@remarkerColor: #333;
+@lineColor: #f1f1f1;
+@backgroundColor: #fff;
+
+.white {
+  color: @color;
+  background-color: #eaeaea;
+
+  .welcome-wrap {
+    color: #999;
+  }
+
+  .market-total-count {
+    & .unit {
+      color: #999;
+    }
+  }
+
+  .logo-title {
+    color: #333;
+  }
+
+  .market-info-wrap .unit {
+    color: #999;
+  }
+
+  .emphasis-enterprise-item-name {
+    color: #666;
+  }
+
+  .emphasis-enterprise-item-contrast {
+    color: #808080;
+  }
+
+  .category-icon-container {
+    background: #f4f4f4;
+  }
+
+  .patent-type-nav > li {
+    & > a {
+      color: #858585;
+    }
+
+    & > a.active {
+      color: #383838;
+
+      & > span {
+        padding-bottom: 1px;
+        border-bottom: 2px solid @color;
+      }
+    }
+  }
+
+  .menus-list > li {
+    &.active {
+      & > .menu-bg {
+        box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.15);
+      }
+    }
+
+    & > a {
+      color: #666;
+    }
+  }
+
+  .logo-wrap-bg {
+    border-top: 56px solid @backgroundColor;
+    box-shadow: -40px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .menu-bg {
+    background: @backgroundColor;
+    -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .choose-theme-wrap {
+    background: #fff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+    &:after {
+      border-bottom: 8px solid #fff;
+    }
+  }
+
+  .theme_darkblue {
+    border: 1px solid #367ab6;
+  }
+
+  .theme_darkgray {
+    border: 1px solid #313e51;
+  }
+
+  .border-solid {
+    border: 1px solid #f4f4f4;
+  }
+
+  .border-dashed {
+    border: 1px dashed #cacaca;
+  }
+
+  .left-top:hover .title,
+  .left-middle:hover .title,
+  .left-bottom:hover .title,
+  .right-top:hover .title,
+  .right-middle:hover .title,
+  .right-bottom:hover .title {
+    color: #000;
+  }
+  .search-list .input-div .el-select input::-webkit-input-placeholder {
+    color: #807e7e;
+  }
+
+  .search-list .input-div .el-select input::-moz-placeholder {
+    color: #807e7e;
+  }
+
+  .search-list .input-div .el-select input::-webkit-input-placeholder {
+    color: #807e7e;
+  }
+
+  .search-list .input-div .el-select input:-ms-input-placeholder {
+    color: #807e7e;
+  }
+
+  .content-wrap .echarts {
+    background: #fff!important;
+  }
+}

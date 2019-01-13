@@ -1,0 +1,1183 @@
+{
+  "status":0,
+  "obj": {
+    "businessEnterprise": {
+      "xAxisData": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "seriesData": {
+        "domesticFundednData": [
+          {
+            "value": 110,
+            "increment": 12,
+            "growth": 4.6
+          },
+          {
+            "value": 200,
+            "increment": 3,
+            "growth": 5.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": -1.6
+          },
+          {
+            "value": 566,
+            "increment": 9,
+            "growth": 12.6
+          },
+          {
+            "value": 643,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 75,
+            "increment": 7,
+            "growth": -14.6
+          }
+        ],
+        "foreignData": [
+          {
+            "value": 110,
+            "increment": 12,
+            "growth": 4.6
+          },
+          {
+            "value": 200,
+            "increment": 3,
+            "growth": 5.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": -1.6
+          },
+          {
+            "value": 566,
+            "increment": 9,
+            "growth": 12.6
+          },
+          {
+            "value": 643,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 75,
+            "increment": 7,
+            "growth": -14.6
+          }
+        ],
+        "personalData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ],
+        "enterpriseData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ],
+        "allData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ]
+      }
+    },
+    "calcelEnterprise": {
+      "xAxisData": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "seriesData": {
+        "domesticFundednData": [
+          {
+            "value": 110,
+            "increment": 12,
+            "growth": 4.6
+          },
+          {
+            "value": 200,
+            "increment": 3,
+            "growth": 5.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": -1.6
+          },
+          {
+            "value": 566,
+            "increment": 9,
+            "growth": 12.6
+          },
+          {
+            "value": 643,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 75,
+            "increment": 7,
+            "growth": -14.6
+          }
+        ],
+        "foreignData": [
+          {
+            "value": 110,
+            "increment": 12,
+            "growth": 4.6
+          },
+          {
+            "value": 200,
+            "increment": 3,
+            "growth": 5.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": -1.6
+          },
+          {
+            "value": 566,
+            "increment": 9,
+            "growth": 12.6
+          },
+          {
+            "value": 643,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 75,
+            "increment": 7,
+            "growth": -14.6
+          }
+        ],
+        "personalData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ],
+        "enterpriseData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ],
+        "allData":[
+          {
+            "value": 110,
+            "increment": 328,
+            "growth": 4.6
+          },
+          {
+            "value": 100,
+            "increment": 322,
+            "growth": 3.2
+          },
+          {
+            "value": 54,
+            "increment": 45,
+            "growth": 2.6
+          },
+          {
+            "value": 46,
+            "increment": 29,
+            "growth": 1.6
+          },
+          {
+            "value": 43,
+            "increment": 26,
+            "growth": 1.1
+          },
+          {
+            "value": 25,
+            "increment": 7,
+            "growth": 0.6
+          }
+        ]
+      }
+    },
+    "industryRankings": [
+      {
+        "id": "1",
+        "ranking": 1,
+        "industryName": "房地产业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 2,
+        "industryName": "金融业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 3,
+        "industryName": "住宿和餐饮业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 3,
+        "industryName": "教育",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 4,
+        "industryName": "采矿业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 5,
+        "industryName": "建筑业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 6,
+        "industryName": "房地产业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 7,
+        "industryName": "金融业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 8,
+        "industryName": "住宿和餐饮业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 9,
+        "industryName": "2",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 10,
+        "industryName": "dfg",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 11,
+        "industryName": "建筑gd业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 12,
+        "industryName": "d",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 13,
+        "industryName": "金融业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 14,
+        "industryName": "住宿和餐饮业23",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 15,
+        "industryName": "教育32",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 16,
+        "industryName": "采矿业",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      },
+      {
+        "id": "1",
+        "ranking": 17,
+        "industryName": "建筑业322",
+        "count": 120,
+        "ratio": 12.7,
+        "addCount": 24,
+        "cancelCOunt": 12
+      }
+    ],
+    "enterpriseDistributes": {
+      "data": [
+        {
+          "name": "滨江街",
+          "value": 10,
+          "ranking": 1,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "昌岗街",
+          "value": 20,
+          "ranking": 2,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "赤岗街",
+          "value": 21,
+          "ranking": 3,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "凤阳街",
+          "value": 22,
+          "ranking": 4,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "官洲街",
+          "value": 23,
+          "ranking": 5,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "海幢街",
+          "value": 24,
+          "ranking": 6,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "华洲街",
+          "value": 25,
+          "ranking": 7,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "江海街",
+          "value": 25,
+          "ranking": 8,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "江南中街",
+          "value": 25,
+          "ranking": 9,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "龙凤街",
+          "value": 25,
+          "ranking": 10,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "南华西街",
+          "value": 25,
+          "ranking": 11,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "南石头街",
+          "value": 25,
+          "ranking": 12,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "南洲街",
+          "value": 25,
+          "ranking": 13,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "琶洲街",
+          "value": 25,
+          "ranking": 14,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "瑞宝街",
+          "value": 25,
+          "ranking": 15,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "沙园街",
+          "value": 25,
+          "ranking": 16,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "素社街",
+          "value": 25,
+          "ranking": 17,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        },
+        {
+          "name": "新港街",
+          "value": 90,
+          "ranking": 18,
+          "industrys": [
+            {
+              "name": "金融业",
+              "count": 124,
+              "ratio": -8.3
+            },
+            {
+              "name": "房地产业",
+              "count": 124,
+              "ratio": 0.8
+            },
+            {
+              "name": "批发零售",
+              "count": 124,
+              "ratio": 1.63
+            },
+            {
+              "name": "住宿餐饮",
+              "count": 124,
+              "ratio": -1.3
+            }
+          ]
+        }
+      ],
+      "streetTOP5": [
+        {
+          "name": "赤岗",
+          "value": 68
+        },
+        {
+          "name": "新港",
+          "value": 52
+        },
+        {
+          "name": "昌岗",
+          "value": 48
+        },
+        {
+          "name": "滨江",
+          "value": 36
+        },
+        {
+          "name": "琶洲",
+          "value": 24
+        }
+      ]
+    },
+    "registerEnterpriseForStreetRanking": {
+      "yAxisData": [
+        "瑞宝",
+        "南州",
+        "南石头",
+        "赤岗",
+        "新港",
+        "琶洲",
+        "沙园"
+      ],
+      "seriesData": [
+        {
+          "name": "内资",
+          "data": [
+            {
+              "name": "瑞宝",
+              "value": 12
+            },
+            {
+              "name": "南州",
+              "value": 78
+            },
+            {
+              "name": "南石头",
+              "value": 95
+            },
+            {
+              "name": "赤岗",
+              "value": 85
+            },
+            {
+              "name": "新港",
+              "value": 86
+            },
+            {
+              "name": "琶洲",
+              "value": 34
+            },
+            {
+              "name": "沙园",
+              "value": 93
+            }
+          ]
+        },
+        {
+          "name": "外资",
+          "data": [
+            {
+              "name": "瑞宝",
+              "value": 12
+            },
+            {
+              "name": "南州",
+              "value": 78
+            },
+            {
+              "name": "南石头",
+              "value": 95
+            },
+            {
+              "name": "赤岗",
+              "value": 85
+            },
+            {
+              "name": "新港",
+              "value": 86
+            },
+            {
+              "name": "琶洲",
+              "value": 34
+            },
+            {
+              "name": "沙园",
+              "value": 93
+            }
+          ]
+        }
+      ]
+    },
+    "registerAmountForStreetRanking": {
+      "yAxisData": [
+        "瑞宝",
+        "南州",
+        "南石头",
+        "赤岗",
+        "新港",
+        "琶洲",
+        "沙园"
+      ],
+      "seriesData": [
+        {
+          "name": "内资",
+          "data": [
+            {
+              "name": "瑞宝",
+              "value": 12
+            },
+            {
+              "name": "南州",
+              "value": 78
+            },
+            {
+              "name": "南石头",
+              "value": 95
+            },
+            {
+              "name": "赤岗",
+              "value": 85
+            },
+            {
+              "name": "新港",
+              "value": 86
+            },
+            {
+              "name": "琶洲",
+              "value": 34
+            },
+            {
+              "name": "沙园",
+              "value": 93
+            }
+          ]
+        },
+        {
+          "name": "外资",
+          "data": [
+            {
+              "name": "瑞宝",
+              "value": 12
+            },
+            {
+              "name": "南州",
+              "value": 78
+            },
+            {
+              "name": "南石头",
+              "value": 95
+            },
+            {
+              "name": "赤岗",
+              "value": 85
+            },
+            {
+              "name": "新港",
+              "value": 86
+            },
+            {
+              "name": "琶洲",
+              "value": 34
+            },
+            {
+              "name": "沙园",
+              "value": 93
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

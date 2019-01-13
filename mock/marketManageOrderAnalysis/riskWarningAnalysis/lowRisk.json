@@ -1,0 +1,30 @@
+{
+  "status":0,
+  "obj": {
+    "xAxisData": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "seriesData": [
+      {
+        "name": "低风险",
+        "data": [
+          {"value":200,"increment": 10},
+          {"value":100,"increment": 11},
+          {"value":200,"increment": 12},
+          {"value":100,"increment": 13},
+          {"value":300,"increment": 14},
+          {"value":200,"increment": 15}
+        ]
+      },
+      {
+        "name": "增长率",
+        "data":[2.5,3.24,4.6,4.21,5.22,1.55]
+      }
+    ]
+  }
+}

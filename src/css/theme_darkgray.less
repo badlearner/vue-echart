@@ -1,0 +1,229 @@
+@color: #d4d4d4;
+@remarkerColor: #ebebeb;
+@lineColor: #364756;
+@backgroundColor: #313e4f;
+
+.darkgray {
+  color: @color;
+  background-color: #26272c;
+
+  .welcome-wrap {
+    color: #8fa0bc;
+  }
+
+  .market-total-count {
+    & .count {
+      color: #f7feff;
+    }
+
+    & .unit {
+      color: #f7feff;
+    }
+  }
+
+  .logo-title {
+    color: #ced7dc;
+  }
+
+  .market-info-wrap .count {
+    color: #f7feff;
+  }
+
+  .market-info-wrap .unit {
+    color: #f7feff;
+  }
+
+  .emphasis-enterprise-item-name {
+    color: @color;
+  }
+
+  .emphasis-enterprise-item-contrast {
+    color: #687a92;
+  }
+
+  .category-icon-container {
+    background: #4e5f79;
+  }
+
+  .patent-type-nav > li {
+    & > a {
+      color: #93a4be;
+    }
+
+    & > a.active {
+      color: #b0cef4;
+
+      & > span {
+        padding-bottom: 1px;
+        border-bottom: 2px solid #96afce;
+      }
+    }
+  }
+
+  .menus-list > li {
+    &.active {
+      & > .menu-bg {
+        box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.15);
+      }
+
+      & > a {
+        color: #b0cef4;
+      }
+    }
+
+    & > a {
+      color: #93a4be;
+    }
+  }
+
+  .logo-wrap-bg {
+    border-top: 56px solid @backgroundColor;
+    box-shadow: -40px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .menu-bg {
+    background: @backgroundColor;
+    -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .choose-theme-wrap {
+    background: #323d51;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+    &:after {
+      border-bottom: 8px solid #323d51;
+    }
+  }
+
+  .theme_white {
+    background: #fff;
+  }
+
+  .theme_darkblue {
+    border: 2px solid #ced7dc;
+  }
+
+  .theme_darkgray {
+    border: 2px solid #ced7dc;
+  }
+
+  .border-solid {
+    border: 1px solid #525f72;
+  }
+
+  .border-dashed {
+    border: 1px dashed #525f72;
+  }
+
+  .left-top .title,
+  .left-middle .title,
+  .left-bottom .title,
+  .right-top .title,
+  .right-middle .title,
+  .right-bottom .title {
+    color: #d4dbe3;
+  }
+
+  .left-top:hover .title,
+  .left-middle:hover .title,
+  .left-bottom:hover .title,
+  .right-top:hover .title,
+  .right-middle:hover .title,
+  .right-bottom:hover .title {
+    color: #aac6f5;
+  }
+
+  .remarks {
+    color:#ebebeb;
+  }
+
+  .select, .choose-insudtry {
+    color: @color;
+    border:1px solid @color;
+  }
+
+  .search-box .el-input__inner,.search-list .el-input__inner {
+    color: @color;
+    border:1px solid @color;
+  }
+
+  .page-nav-title,
+  .fa-unsorted, .more-ranking{
+    color: @color;
+  }
+
+  .btn-primary, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open .dropdown-toggle.btn-primary {
+    color: #333333;
+    background-color: #f7d66B;
+    border-color: #f7d66B;
+  }
+
+  .economic-rend-analysis-nav {
+    & > li {
+      color: #d4d4d4;
+
+      &.active > span {
+        color: #ffffff;
+        border-bottom: 2px solid @color;
+      }
+    }
+  }
+
+  .be-chart,
+  .ce-chart,
+  .map-chart,
+  .migrate-left-warap .bottom,
+  .total-chart,
+  .street-map-chart,
+  .market-left-warap .pie-chart,
+  .pie-chart-right,
+  .market-left-warap .bottom {
+    background: @backgroundColor;
+  }
+
+  .select {
+    background: #26272c;
+  }
+
+  .insustry-list-title {
+    color: @color;
+    background: #3D4C63;
+    border: 1px solid #313E4F;
+  }
+
+  .insustry-list > tbody > tr > td {
+    color: @color;
+    border: 1px solid #313E4F;
+  }
+
+  .insustry-list > tbody > tr:nth-child(even) {
+    background: #3D4C63;
+  }
+
+  .choose-insudtry-container {
+    background: #313e4f;
+    box-shadow: 0 0 4px #eee;
+  }
+
+  .choose-insudtry-container::after {
+    border-bottom: 8px solid #313e4f;
+  }
+  .search-list .input-div .el-select input::-webkit-input-placeholder {
+    color: #d4d4d4;
+  }
+
+  .search-list .input-div .el-select input::-moz-placeholder {
+    color: #d4d4d4;
+  }
+
+  .search-list .input-div .el-select input::-webkit-input-placeholder {
+    color: #d4d4d4;
+  }
+
+  .search-list .input-div .el-select input:-ms-input-placeholder {
+    color: #d4d4d4;
+  }
+}

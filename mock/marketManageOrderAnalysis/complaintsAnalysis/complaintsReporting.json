@@ -1,0 +1,10 @@
+{
+  "status":0,
+  "obj": {
+    "legendData":["投诉类","举报类"],
+    "seriesData": [
+      {"value":35, "name":"投诉类","selected":true},
+      {"value":435, "name":"举报类"}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38424975.628,2557190.1021999996]},"properties":{"name":"滨江街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38425345.5837,2554967.6380000003]},"properties":{"name":"昌岗街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38429935.6993,2555938.243899999]},"properties":{"name":"赤岗街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38426040.6566,2553910.185799999]},"properties":{"name":"凤阳街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38435049.4675,2553746.0774000008]},"properties":{"name":"官洲街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38424042.3869,2556684.9783999994]},"properties":{"name":"海幢街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38432778.0844,2551721.696900001]},"properties":{"name":"华洲街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38429693.2307,2554553.1163999997]},"properties":{"name":"江海街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38424784.016499996,2555849.180299999]},"properties":{"name":"江南中街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38423166.2363,2555432.5472]},"properties":{"name":"龙凤街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38422485.9126,2556164.0259000007]},"properties":{"name":"南华西街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38424444.0215,2553183.2223000005]},"properties":{"name":"南石头街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38429195.1861,2552086.4551]},"properties":{"name":"南洲街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38437469.6439,2555016.063100001]},"properties":{"name":"琶洲街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38426992.7105,2552915.8892]},"properties":{"name":"瑞宝街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38423714.0316,2554620.9779000003]},"properties":{"name":"沙园街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38426201.8021,2556091.2595000006]},"properties":{"name":"素社街"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38427244.1805,2555703.1711999997]},"properties":{"name":"新港街"}}
+]}

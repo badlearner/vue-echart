@@ -1,0 +1,48 @@
+{
+  "status":0,
+  "obj": {
+    "xAxisData": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "seriesData": [
+      {
+        "name": "投诉类",
+        "data": [
+          {"value":200,"increment": 10,"growth": 1.8},
+          {"value":100,"increment": 11,"growth": 2.8},
+          {"value":200,"increment": 12,"growth": 3.8},
+          {"value":100,"increment": 13,"growth": 4.8},
+          {"value":300,"increment": 14,"growth": 4.8},
+          {"value":200,"increment": 15,"growth": 4.8}
+        ]
+      },
+      {
+        "name": "举报类",
+        "data": [
+          {"value":200,"increment": 10,"growth": 4.6},
+          {"value":100,"increment": 11,"growth": 5.6},
+          {"value":200,"increment": 12,"growth": 6.6},
+          {"value":100,"increment": 13,"growth": 7.6},
+          {"value":300,"increment": 14,"growth": 8.6},
+          {"value":200,"increment": 15,"growth": 9.6}
+        ]
+      },
+      {
+        "name": "总宗数",
+        "data": [
+          {"value":400,"increment": 20,"growth": 4.6},
+          {"value":200,"increment": 22,"growth": 5.6},
+          {"value":400,"increment": 24,"growth": 6.6},
+          {"value":200,"increment": 26,"growth": 7.6},
+          {"value":600,"increment": 28,"growth": 8.6},
+          {"value":400,"increment": 30,"growth": 9.6}
+        ]
+      }
+    ]
+  }
+}

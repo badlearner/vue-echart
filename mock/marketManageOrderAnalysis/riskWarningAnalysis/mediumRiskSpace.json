@@ -1,0 +1,425 @@
+{
+  "status":0,
+  "obj": {
+    "data": [
+      {
+        "name": "滨江街",
+        "value": 372,
+        "ranking": 1,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 124,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 124,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 124,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "昌岗街",
+        "value": 140,
+        "ranking": 2,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 20,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 10,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 110,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "赤岗街",
+        "value": 130,
+        "ranking": 3,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 30,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 30,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 70,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "凤阳街",
+        "value": 90,
+        "ranking": 4,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 20,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 20,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 50,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "官洲街",
+        "value": 80,
+        "ranking": 5,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 30,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 30,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 20,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "海幢街",
+        "value": 70,
+        "ranking": 6,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 20,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 20,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 30,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "华洲街",
+        "value": 60,
+        "ranking": 7,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 20,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 20,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 20,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "江海街",
+        "value": 50,
+        "ranking": 8,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 20,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 20,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 10,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "江南中街",
+        "value": 40,
+        "ranking": 9,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 10,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 20,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 10,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "龙凤街",
+        "value": 30,
+        "ranking": 10,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 10,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 10,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 10,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "南华西街",
+        "value": 25,
+        "ranking": 11,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 10,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 10,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 5,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "南石头街",
+        "value": 20,
+        "ranking": 12,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 10,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 5,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 5,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "南洲街",
+        "value": 15,
+        "ranking": 13,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 5,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 5,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 5,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "琶洲街",
+        "value": 10,
+        "ranking": 14,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 5,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 3,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 2,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "瑞宝街",
+        "value": 9,
+        "ranking": 15,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 3,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 3,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 3,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "沙园街",
+        "value": 8,
+        "ranking": 16,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 3,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 3,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 2,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "素社街",
+        "value": 7,
+        "ranking": 17,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 2,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 2,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 3,
+            "ratio": 1.63
+          }
+        ]
+      },
+      {
+        "name": "新港街",
+        "value": 6,
+        "ranking": 18,
+        "industrys": [
+          {
+            "name": "房地产业",
+            "count": 2,
+            "ratio": -8.3
+          },
+          {
+            "name": "金融业",
+            "count": 2,
+            "ratio": 0.8
+          },
+          {
+            "name": "服务业",
+            "count": 2,
+            "ratio": 1.63
+          }
+        ]
+      }
+    ],
+    "streetTOP5": [
+      {
+        "name": "赤岗",
+        "value": 98
+      },
+      {
+        "name": "新港",
+        "value": 62
+      },
+      {
+        "name": "昌岗",
+        "value": 48
+      },
+      {
+        "name": "滨江",
+        "value": 36
+      },
+      {
+        "name": "琶洲",
+        "value": 24
+      }
+    ]
+  }
+}

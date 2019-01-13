@@ -1,0 +1,161 @@
+{
+  "status":0,
+  "obj": {
+    "xAxisData": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "seriesData": [
+      {
+        "name": "服务类",
+        "data": [
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":1349,"growth": 0},
+          {"value":238,"growth": -82.36},
+          {"value":593,"growth": 149.16}
+        ]
+      },
+      {
+        "name": "商品类",
+        "data": [
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":1557,"growth": 0},
+          {"value":441,"growth": -71.68},
+          {"value":1672,"growth": 279.14}
+        ]
+      },
+      { "name":"商品类投诉案件排名Top5",
+        "data":[
+          {
+            "year":2012,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2013,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2014,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2015,
+            "data":[
+              {"name":"日用百货类","value":610,"growth":0},
+              {"name":"家用电器类","value":215,"growth":0},
+              {"name":"通讯器材","value":199,"growth":0},
+              {"name":"其他","value":184,"growth":0},
+              {"name":"交通工具","value":124,"growth":0}
+            ]
+          },{
+            "year":2016,
+            "data":[
+              {"name":"日用百货类","value":195,"growth":-68.03},
+              {"name":"其他","value":105,"growth":-42.93},
+              {"name":"通讯器材","value":41,"growth":-79.4},
+              {"name":"家用电器类","value":28,"growth":-86.98},
+              {"name":"食品类","value":26,"growth":-77.39}
+            ]
+          },{
+            "year":2017,
+            "data":[
+              {"name":"日用百货类","value":764,"growth":291.79},
+              {"name":"其他","value":482,"growth":359.05},
+              {"name":"文化、运动娱乐用品","value":198,"growth":1880},
+              {"name":"食品类","value":68,"growth":161.54},
+              {"name":"通讯器材","value":55,"growth":34.15}
+            ]
+          }]
+      },
+      { "name":"服务类投诉案件排名Top5",
+        "data":[
+          { "year":2011,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2012,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2013,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2014,
+            "data":[
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0},
+              {"name":"","value":0,"growth": 0}
+            ]
+          },{
+            "year":2015,
+            "data":[
+              {"name":"互联网服务","value":363,"growth":0},
+              {"name":"其他","value":305,"growth":0},
+              {"name":"居民服务","value":135,"growth":0},
+              {"name":"非现场购物","value":126,"growth":0},
+              {"name":"修理维护服务","value":107,"growth":0}
+            ]
+          },{
+            "year":2016,
+            "data":[
+              {"name":"互联网服务","value":88,"growth":-75.76},
+              {"name":"其他","value":47,"growth":-84.59},
+              {"name":"住宿服务","value":24,"growth":-76.92},
+              {"name":"文化娱乐服务","value":23,"growth":-72.29},
+              {"name":"居民服务","value":20,"growth":-85.19}
+            ]
+          },{
+            "year":2017,
+            "data":[
+              {"name":"互联网服务","value":331,"growth":276.14},
+              {"name":"其他","value":107,"growth":127.66},
+              {"name":"住宿服务","value":38,"growth":58.33},
+              {"name":"居民服务","value":25,"growth":25},
+              {"name":"文化娱乐服务","value":24,"growth":4.35}
+            ]
+          }]
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+.white .left-top {
+    background: url(../assets/image/theme/white/white_market.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .left-middle {
+    background: url(../assets/image/theme/white/white_emphasis_enterprise.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .left-bottom {
+    background: url(../assets/image/theme/white/white_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .middle-bottom .middle-f-l {
+    background: url(../assets/image/theme/white/white_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .middle-bottom .middle-f-r {
+    background: url(../assets/image/theme/white/white_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .right-top {
+    background: url(../assets/image/theme/white/white_companies_active.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .right-middle {
+    background: url(../assets/image/theme/white/white_intellectual_property.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .right-bottom {
+    background: url(../assets/image/theme/white/white_economic_resources.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .left-top {
+    background: url(../assets/image/theme/darkgray/darkgray_market.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .left-middle {
+    background: url(../assets/image/theme/darkgray/darkgray_emphasis_enterprise.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .left-bottom {
+    background: url(../assets/image/theme/darkgray/darkgray_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .middle-bottom .middle-f-l {
+    background: url(../assets/image/theme/darkgray/darkgray_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .middle-bottom .middle-f-r {
+    background: url(../assets/image/theme/darkgray/darkgray_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .right-top {
+    background: url(../assets/image/theme/darkgray/darkgray_companies_active.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .right-middle {
+    background: url(../assets/image/theme/darkgray/darkgray_intellectual_property.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .right-bottom {
+    background: url(../assets/image/theme/darkgray/darkgray_economic_resources.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .left-top {
+    background: url(../assets/image/theme/darkblue/darkblue_market.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .left-middle {
+    background: url(../assets/image/theme/darkblue/darkblue_emphasis_enterprise.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .left-bottom {
+    background: url(../assets/image/theme/darkblue/darkblue_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .middle-bottom .middle-f-l {
+    background: url(../assets/image/theme/darkblue/darkblue_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .middle-bottom .middle-f-r {
+    background: url(../assets/image/theme/darkblue/darkblue_market_business_order.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .right-top {
+    background: url(../assets/image/theme/darkblue/darkblue_companies_active.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .right-middle {
+    background: url(../assets/image/theme/darkblue/darkblue_intellectual_property.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .right-bottom {
+    background: url(../assets/image/theme/darkblue/darkblue_economic_resources.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.red .downIcon {
+    background: url(../assets/image/icon_l.png) no-repeat;
+    background-size: 100%;
+}
+
+.green .downIcon {
+    background: url(../assets/image/icon_l.png) no-repeat;
+    background-size: 100%;
+}
+
+.downIcon {
+    background: url(../assets/image/icon_hx.png) no-repeat;
+    background-size: 100%;
+}
+
+.red .upIcon {
+    background: url(../assets/image/icon_h.png) no-repeat;
+    background-size: 100%;
+}
+
+.green .upIcon {
+    background: url(../assets/image/icon_h.png) no-repeat;
+    background-size: 100%;
+}
+
+.upIcon {
+    background: url(../assets/image/icon_hs.png) no-repeat;
+    background-size: 100%;
+}
+
+.darkblue .category-icon-container .reportIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/darkblue/darkblue_report.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .category-icon-container .abnormalIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/darkblue/darkblue_abnormal.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkblue .category-icon-container .penalizeIcon {
+    display: inline-block;
+    width: 26px;
+    background: url(../assets/image/theme/darkblue/darkblue_penalize.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .category-icon-container .reportIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/darkgray/darkgray_report.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .category-icon-container .abnormalIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/darkgray/darkgray_abnormal.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkgray .category-icon-container .penalizeIcon {
+    display: inline-block;
+    width: 26px;
+    background: url(../assets/image/theme/darkgray/darkgray_penalize.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .reportIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/white/white_report.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .abnormalIcon {
+    display: inline-block;
+    width: 30px;
+    background: url(../assets/image/theme/white/white_abnormal.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.white .penalizeIcon {
+    display: inline-block;
+    width: 26px;
+    background: url(../assets/image/theme/white/white_penalize.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.h-hundred-percent {
+  height: 100%;
+}
+
+.content-body-top {
+  height: 50%;
+}
+
+.content-body-bottom {
+  height: 50%;
+  padding: 5px 0 0 0;
+}
+
+.content-wrap {
+  padding-top: 5px;
+}
+
+.left-chart-wrap {
+  width: 50%;
+  height: 100%;
+  padding: 0 2.5px 0 0;
+}
+
+.right-chart-wrap {
+  width: 50%;
+  height: 100%;
+  padding: 0 0 0 2.5px;
+}
+
+.content-wrap .left-container {
+  width: 33.3%;
+  height: 100%;
+  padding-right: 2.5px;
+}
+.content-wrap .center-container {
+  width: 33.4%;
+  height: 100%;
+  padding: 0 2.5px;
+}
+.content-wrap .right-container {
+  width: 33.3%;
+  height: 100%;
+  padding-left: 2.5px;
+}
+
+.pos-reative {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.pos-reative a{
+  position: absolute;
+  top: 3px;
+  right: 5px;
+  z-index: 6000;
+}
+
+.chart {
+  background: #fff;
+  border-radius: 4px;
+  padding: 5px;
+  height: 100%;
+  overflow: auto;
+}
+
+.login-bg {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    height: 260px;
+    background: url(../assets/image/banner2.jpg) repeat;
+}
+
+.middle-bottom p {
+    margin: 0 0 3px;
+    font-size: 12px;
+    width: 100%;
+}
+
+.middle-bottom .middle-f-r .move-content h5 {
+    margin: 6px 0;
+    font-size: 13px;
+}
+
+
+.main-container .el-dialog .el-dialog__body {
+  padding: 10px 25px 20px;
+}
+
+.main-container .el-dialog .el-tabs--card > .el-tabs__header {
+  margin: 0 auto;
+}
+
+.main-container .el-dialog .el-tabs--card > .el-tabs__header .el-tabs__item {
+  border: none;
+  font-size: 15px;
+  color: #333;
+  padding: 0;
+  margin-right: 20px;
+  height: 40px;
+  line-height: 40px;
+}
+
+.main-container .el-dialog .el-tabs--card > .el-tabs__header .el-tabs__nav {
+  border: none;
+}
+
+.main-container .el-dialog .el-tabs--card > .el-tabs__header .el-tabs__item.is-active {
+  font-weight: 700;
+  border-bottom: 2px solid #737373;
+}
+
+.main-container .el-dialog .position-btn {
+  position: absolute;
+  right: 30px;
+  top: 70px;
+}
+
+.main-container .el-dialog .position-btn a {
+  cursor: pointer;
+}
+
+.main-container .el-dialog__wrapper .el-dialog__header {
+  padding-top: 10px;
+  background: #e8f4ff;
+}
+
+.main-container .el-dialog__wrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 5px;
+  font-size: 20px;
+}
+
+@media screen and (min-width: 1601px) {
+    .middle-bottom p {
+        font-size: 14px;
+    }
+
+    .middle-bottom .middle-f-r .move-content h5 {
+        font-size: 16px;
+        margin: 20px 0 10px 0;
+    }
+
+    .middle-bottom .move-content p {
+        margin: 6px 0;
+        font-size: 14px;
+    }
+
+    .title .tab-p {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+
+    .middle-bottom .middle-f-r .move-content {
+        margin: 20px auto;
+    }
+
+    .pie-echart {
+        height:300px;
+    }
+
+    .pie-bar-chart .bar-chart {
+        width: 400px;
+        height: 330px;
+    }
+
+    .pie-bar-chart .bar-chart .chart {
+        height: 330px;
+        width: 400px;
+    }
+}

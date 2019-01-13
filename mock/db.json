@@ -1,0 +1,4554 @@
+{
+  "year": {
+    "status": 0,
+    "obj": {
+      "startYear": 2010,
+      "endYear": 2017,
+      "currentYear": 2017
+    }
+  },
+  "street": {
+    "status": 0,
+    "obj": [
+      {
+        "name": "滨江街",
+        "selected": false
+      },
+      {
+        "name": "昌岗街",
+        "selected": false
+      },
+      {
+        "name": "赤岗街",
+        "selected": false
+      },
+      {
+        "name": "凤阳街",
+        "selected": false
+      },
+      {
+        "name": "官洲街",
+        "selected": false
+      },
+      {
+        "name": "海幢街",
+        "selected": false
+      },
+      {
+        "name": "华洲街",
+        "selected": false
+      },
+      {
+        "name": "江海街",
+        "selected": false
+      },
+      {
+        "name": "江南中街",
+        "selected": false
+      },
+      {
+        "name": "龙凤街",
+        "selected": false
+      },
+      {
+        "name": "南华西街",
+        "selected": false
+      },
+      {
+        "name": "南石头街",
+        "selected": false
+      },
+      {
+        "name": "南洲街",
+        "selected": false
+      },
+      {
+        "name": "琶洲街",
+        "selected": false
+      },
+      {
+        "name": "瑞宝街",
+        "selected": false
+      },
+      {
+        "name": "沙园街",
+        "selected": false
+      },
+      {
+        "name": "素社街",
+        "selected": false
+      },
+      {
+        "name": "新港街",
+        "selected": false
+      }
+    ]
+  },
+  "totalGDP": {
+    "status": 0,
+    "obj": {
+      "fourCapsData": [
+        6922.43,
+        8346.19,
+        9645.57,
+        10056.87,
+        10953.36,
+        7716.71
+      ],
+      "fourCapsMoMData": [
+        100,
+        23.32,
+        9.25,
+        12.8,
+        5.94,
+        -18.45
+      ],
+      "fourCapsYoYData": [
+        100,
+        23.32,
+        9.25,
+        12.8,
+        5.94,
+        -18.45
+      ],
+      "gdpData": [
+        6922.43,
+        8346.19,
+        9645.57,
+        10056.87,
+        10953.36,
+        7716.71
+      ],
+      "gdpMoMData": [
+        100,
+        23.32,
+        9.25,
+        12.8,
+        5.94,
+        -18.45
+      ],
+      "gdpYoYData": [
+        100,
+        23.32,
+        9.25,
+        12.8,
+        5.94,
+        -18.45
+      ],
+      "unit": "亿元",
+      "xAxisData": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ]
+    }
+  },
+  "totalTax": {
+    "status": 0,
+    "obj": {
+      "districtMoMData": [
+        100,
+        31.13,
+        17.21,
+        37.18,
+        27.19
+      ],
+      "districtTaxData": [
+        24.33,
+        29.42,
+        33.64,
+        34.33,
+        29.43
+      ],
+      "districtYoYData": [
+        100,
+        31.13,
+        17.21,
+        37.18,
+        27.19
+      ],
+      "fullMoMData": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "fullTaxData": [
+        109.8,
+        136.52,
+        155.43,
+        170.78,
+        156.43
+      ],
+      "fullYoYData": [
+        100,
+        28.1,
+        17.08,
+        37.91,
+        26.2
+      ],
+      "unit": "亿元",
+      "xAxisData": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ]
+    }
+  },
+  "top4Industry": {
+    "status": 0,
+    "obj": {
+      "buildingData": 120,
+      "businessData": 332,
+      "industryData": 221,
+      "serviceData": 225
+    }
+  },
+  "enterpriseGdp": {
+    "status": 0,
+    "obj": {
+      "gdp": {
+        "xAxisData": [
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "gdpData": [
+          {
+            "year": "2012",
+            "value": 2579.03,
+            "growth": 100,
+            "incremental": 135.74
+          },
+          {
+            "year": "2013",
+            "value": 2941.11,
+            "growth": 29.93,
+            "incremental": 19.06
+          },
+          {
+            "year": "2014",
+            "value": 3340.76,
+            "growth": 194.00,
+            "incremental": 18.17
+          },
+          {
+            "year": "2015",
+            "value": 3581.61,
+            "growth": 8.36,
+            "incremental": 10.95
+          },
+          {
+            "year": "2016",
+            "value": 3840.75,
+            "growth": 6.91,
+            "incremental": 11.78
+          },
+          {
+            "year": "2017",
+            "value": 2274.46,
+            "growth": -24.88,
+            "incremental": -71.2
+          }
+        ],
+        "onLimitGdpData": [
+          {
+            "year": "2012",
+            "value": 2579.03,
+            "growth": 100,
+            "incremental": 135.74
+          },
+          {
+            "year": "2013",
+            "value": 2941.11,
+            "growth": 29.93,
+            "incremental": 19.06
+          },
+          {
+            "year": "2014",
+            "value": 3340.76,
+            "growth": 194.00,
+            "incremental": 18.17
+          },
+          {
+            "year": "2015",
+            "value": 3581.61,
+            "growth": 8.36,
+            "incremental": 10.95
+          },
+          {
+            "year": "2016",
+            "value": 3840.75,
+            "growth": 6.91,
+            "incremental": 11.78
+          },
+          {
+            "year": "2017",
+            "value": 2274.46,
+            "growth": -24.88,
+            "incremental": -71.2
+          }
+        ],
+        "underLimitGdpData": [
+          {
+            "year": "2012",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          },
+          {
+            "year": "2013",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          },
+          {
+            "year": "2014",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          },
+          {
+            "year": "2015",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          },
+          {
+            "year": "2016",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          },
+          {
+            "year": "2017",
+            "value": 0,
+            "growth": 0,
+            "incremental": 0
+          }
+        ],
+        "incrementalUnit": "亿元",
+        "unit": "亿元"
+      },
+      "mom": {
+        "xAxisData": [
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "rGdpData": [
+          100,
+          29.93,
+          194,
+          8.36,
+          6.91,
+          -24.88
+        ],
+        "limitData": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "yoy": {
+        "xAxisData": [
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "rGdpData": [
+          100,
+          29.93,
+          194,
+          8.36,
+          6.91,
+          -24.88
+        ],
+        "limitData": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "enterpriseTax": {
+    "status": 0,
+    "obj": {
+      "tax": {
+        "fTaxData": [
+          54.85,
+          68.26,
+          77.66,
+          84.99,
+          77.38
+        ],
+        "dTaxData": [
+          12.15,
+          14.71,
+          16.8,
+          17.09,
+          14.48
+        ],
+        "xAxisData": [
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "yAxisData": null,
+        "unit": "亿元"
+      },
+      "mom": {
+        "fTaxData": [
+          100,
+          52.42,
+          17.744090909090909090909090909,
+          12.854782608695652173913043478,
+          3.0331818181818181818181818182
+        ],
+        "dTaxData": [
+          100,
+          58.944782608695652173913043478,
+          17.911363636363636363636363636,
+          3.930869565217391304347826087,
+          -9.871818181818181818181818182
+        ],
+        "xAxisData": [
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "yAxisData": null,
+        "unit": ""
+      },
+      "yoy": {
+        "fTaxData": [
+          100,
+          52.42,
+          17.744090909090909090909090909,
+          12.854782608695652173913043478,
+          3.0331818181818181818181818182
+        ],
+        "dTaxData": [
+          100,
+          52.42,
+          17.744090909090909090909090909,
+          12.854782608695652173913043478,
+          3.0331818181818181818181818182
+        ],
+        "xAxisData": [
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "yAxisData": null,
+        "unit": ""
+      }
+    }
+  },
+  "commonRevenue": {
+    "status": 0,
+    "obj": {
+      "financialRevenue": {
+        "totalData": [
+          262,
+          574,
+          499,
+          199,
+          433,
+          444
+        ],
+        "cTaxData": [
+          25,
+          351,
+          323,
+          23,
+          163,
+          319
+        ],
+        "lTaxData": [
+          142,
+          131,
+          119,
+          22,
+          122,
+          76
+        ],
+        "aFeesData": [
+          95,
+          92,
+          57,
+          154,
+          148,
+          49
+        ],
+        "xAxisData": [
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "yAxisData": null,
+        "unit": "万元"
+      },
+      "financialGrowth": {
+        "totalData": null,
+        "cTaxData": [
+          58.09,
+          1.35,
+          36.2,
+          14.91,
+          10.03,
+          32.77
+        ],
+        "lTaxData": [
+          31.08,
+          59.62,
+          30.25,
+          35.17,
+          42.24,
+          68.54
+        ],
+        "aFeesData": [
+          22.27,
+          23.11,
+          4.3,
+          49.82,
+          54.48,
+          53.61
+        ],
+        "xAxisData": [
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "yAxisData": null,
+        "unit": ""
+      }
+    }
+  },
+  "inputOut": {
+    "status": 0,
+    "obj": {
+      "contractForeignInvestment": [
+        139,
+        486,
+        500,
+        763,
+        271,
+        195
+      ],
+      "totalExports": [
+        799,
+        234,
+        161,
+        540,
+        607,
+        113
+      ],
+      "actualUseForeignInvestment": [
+        402,
+        287,
+        949,
+        988,
+        161,
+        789
+      ],
+      "totalImports": [
+        812,
+        813,
+        642,
+        209,
+        567,
+        745
+      ],
+      "fullApertureContract": [
+        409,
+        786,
+        196,
+        118,
+        885,
+        736
+      ],
+      "offshoreContract": [
+        893,
+        151,
+        899,
+        146,
+        970,
+        978
+      ],
+      "totalOffshoreExecution": [
+        576,
+        567,
+        436,
+        921,
+        485,
+        849
+      ],
+      "totalOverseasInvestm": [
+        831,
+        806,
+        783,
+        483,
+        159,
+        759
+      ],
+      "totalOverseasInvestmentProjectAgreement": [
+        560,
+        713,
+        983,
+        646,
+        367,
+        715
+      ],
+      "totalForeignContractProjects": [
+        341,
+        342,
+        492,
+        364,
+        554,
+        510
+      ],
+      "xAxisData": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "yAxisData": null,
+      "unit": "万(美元)"
+    }
+  },
+  "getEnterpriseDataByIndustry": {
+    "status": 0,
+    "obj": {"status":1,"Data":{"outputs":{"legenDdata":["工业","商业","服务业","建筑业","房地产"],"ysriData":["2012","2013","2014","2015","2016","2017"],"seriesData":[{"name":"工业","data":[681.56,659.87,706.91,700.4,683.94,684.68]},{"name":"商业","data":[882.18,1231.99,1482.03,1446.83,1635.93,1583.9]},{"name":"服务业","data":[922.42,819.12,901.75,1128.07,1174.96,5.87]},{"name":"建筑业","data":[35.48,44.95,44.76,61.13,56.79,0]},{"name":"房地产","data":[57.39,80.52,78.76,98.37,119.6,0]}],"unit":"亿"},"taxs":{"legenDdata":["工业","商业","服务业","建筑业","房地产"],"ysriData":["2013","2014","2015","2016","2017"],"seriesData":[{"name":"工业","data":[21.88,21.11,24.89,25.4,30.06]},{"name":"商业","data":[11,12.22,12.53,15.59,20.37]},{"name":"服务业","data":[13.84,20.93,24.03,26.83,28.62]},{"name":"建筑业","data":[1.03,1.23,1.31,1.74,0]},{"name":"房地产","data":[7.2,12.78,15.01,16.23,0]}],"unit":"亿"},"enterpriseNum":{"industry":[551,661,702,667,669,558],"wrsf":[524,683,771,753,784,818],"service":[110,407,490,601,647,695],"construction":[58,65,74,75,76,0],"realEstateDevelopment":[54,51,66,70,68,0],"xAxisData":[2012,2013,2014,2015,2016,2017],"yAxisData":null,"unit":""},"outputTaxDetail":{"outputTaxDetails":[{"Type":"工业","NumberFirms":558,"GrossOutputValue":684.68,"AmountTax":30.06,"ProductionTax":4.38998,"OutputGrowth":15.6,"TaxRevenueGrowth":42.17,"OutputValueProportion":30.1,"TaxRevenueRatio":38.02},{"Type":"商业","NumberFirms":818,"GrossOutputValue":1583.9,"AmountTax":20.37,"ProductionTax":1.28614,"OutputGrowth":12.37,"TaxRevenueGrowth":53.25,"OutputValueProportion":69.64,"TaxRevenueRatio":25.77},{"Type":"服务业","NumberFirms":695,"GrossOutputValue":5.87,"AmountTax":28.62,"ProductionTax":487.52384,"OutputGrowth":-77.84,"TaxRevenueGrowth":78.1,"OutputValueProportion":0.26,"TaxRevenueRatio":36.21},{"Type":"建筑业","NumberFirms":0,"GrossOutputValue":0,"AmountTax":0,"ProductionTax":0,"OutputGrowth":0,"TaxRevenueGrowth":0,"OutputValueProportion":0,"TaxRevenueRatio":0},{"Type":"房地产","NumberFirms":0,"GrossOutputValue":0,"AmountTax":0,"ProductionTax":0,"OutputGrowth":0,"TaxRevenueGrowth":0,"OutputValueProportion":0,"TaxRevenueRatio":0}],"GrossOutputValueUnit":"亿元","AmountTaxUnit":null,"Year":2017}},"AttachData":null,"ErrorMessage":null,"Message":""}
+  },
+  "professionMarket": {
+    "status": 0,
+    "obj": {
+      "nums": [
+        {
+          "name": "广宇国际商贸城",
+          "value": 651,
+          "id": "8d860477-98d8-42c7-a742-f5a906912133"
+        },
+        {
+          "name": "州市太和谢家庄农贸综合批发市场",
+          "value": 680,
+          "id": "1d2a9e52-ec45-4085-bc97-3210c8746f6f"
+        },
+        {
+          "name": "怡发广场",
+          "value": 800,
+          "id": "7ab96259-b02a-45ba-9fc0-2a2c51bb182b"
+        },
+        {
+          "name": "广东天健国际家居装饰商贸广场",
+          "value": 813,
+          "id": "de88763c-1e19-4c73-aee0-56cca6339c07"
+        },
+        {
+          "name": "广州锦东市场",
+          "value": 1000,
+          "id": "2483706b-dd7a-4e39-8747-f85e86c76c05"
+        },
+        {
+          "name": "广州市广大鞋业商贸城",
+          "value": 1181,
+          "id": "9dc1202b-0224-4e79-a5da-239b792040f2"
+        },
+        {
+          "name": "广州市西城同德鞋业基地",
+          "value": 1583,
+          "id": "c2ce0093-c085-4a5c-bd02-a098e93a6eed"
+        },
+        {
+          "name": "广州白云世界皮具贸易中心",
+          "value": 1800,
+          "id": "dd828558-dc35-4433-91c7-d3c6d1d6329d"
+        },
+        {
+          "name": "广州新百佳小商品城（新百佳服装电商产业园）",
+          "value": 1886,
+          "id": "3fbebb0e-828d-4a27-91be-b458e7b8bc8e"
+        },
+        {
+          "name": "广州市广大皮具商贸城",
+          "value": 2680,
+          "id": "b7b4b5ef-6894-47ad-a220-b9262bc097a7"
+        }
+      ],
+      "areas": [
+        {
+          "name": "广州新百佳小商品城（新百佳服装电商产业园）",
+          "value": 60000,
+          "id": "3fbebb0e-828d-4a27-91be-b458e7b8bc8e"
+        },
+        {
+          "name": "广州市宝翔家禽批发市场",
+          "value": 70000,
+          "id": "303a774d-1705-41cd-8e4f-4102d566b9c3"
+        },
+        {
+          "name": "广州良盛皮具五金市场经营管理有限公司",
+          "value": 76212,
+          "id": "ce25680f-f861-4763-b3ba-becd30709175"
+        },
+        {
+          "name": "广州市金戎生猪交易市场",
+          "value": 80000,
+          "id": "3a33ddcd-1bd4-4d57-b8a7-b20afe27b543"
+        },
+        {
+          "name": "广东汽车市场",
+          "value": 93758.39,
+          "id": "3ec98b50-6d60-4576-8d46-632e4c90e4a3"
+        },
+        {
+          "name": "广州市西城同德鞋业基地",
+          "value": 130000,
+          "id": "c2ce0093-c085-4a5c-bd02-a098e93a6eed"
+        },
+        {
+          "name": "广州市江秾汇市场",
+          "value": 153430,
+          "id": "c6a8845f-f780-4d28-bfb2-3fb24a7866c4"
+        },
+        {
+          "name": "广州锦东市场",
+          "value": 170000,
+          "id": "2483706b-dd7a-4e39-8747-f85e86c76c05"
+        },
+        {
+          "name": "广东天健国际家居装饰商贸广场",
+          "value": 250000,
+          "id": "de88763c-1e19-4c73-aee0-56cca6339c07"
+        },
+        {
+          "name": "广州江南果菜批发市场",
+          "value": 400000,
+          "id": "26c4f712-05c2-410f-926c-f81d553b295a"
+        }
+      ],
+      "gdp": {
+        "seriesData": [
+          {
+            "name": "广州白云摩托车配件批发市场",
+            "value": 9.94,
+            "id": "246d0ad2-264a-45ab-be92-4c433c173ab0"
+          },
+          {
+            "name": "广州市江秾汇市场",
+            "value": 14.88,
+            "id": "c6a8845f-f780-4d28-bfb2-3fb24a7866c4"
+          },
+          {
+            "name": "广州市国大鞋城管理有限公司",
+            "value": 15,
+            "id": "60811590-0b99-44d8-b70b-19f31109bc8e"
+          },
+          {
+            "name": "广东天健国际家居装饰商贸广场",
+            "value": 17.96,
+            "id": "de88763c-1e19-4c73-aee0-56cca6339c07"
+          },
+          {
+            "name": "广州新百佳小商品城（新百佳服装电商产业园）",
+            "value": 20,
+            "id": "3fbebb0e-828d-4a27-91be-b458e7b8bc8e"
+          },
+          {
+            "name": "广州市白云区东旺批发市场",
+            "value": 24,
+            "id": "9a982612-0709-4d27-a3f7-1a60de673271"
+          },
+          {
+            "name": "广州江南果菜批发市场",
+            "value": 24.8,
+            "id": "26c4f712-05c2-410f-926c-f81d553b295a"
+          },
+          {
+            "name": "广州市金戎生猪交易市场",
+            "value": 30,
+            "id": "3a33ddcd-1bd4-4d57-b8a7-b20afe27b543"
+          },
+          {
+            "name": "广州市嘉禾畜禽交易服务中心",
+            "value": 40.28,
+            "id": "f6637927-7bcb-4825-afc1-968f180ea887"
+          },
+          {
+            "name": "广州市西城同德鞋业基地",
+            "value": 76.42,
+            "id": "c2ce0093-c085-4a5c-bd02-a098e93a6eed"
+          }
+        ],
+        "unit": "亿元"
+      },
+      "tax": {
+        "seriesData": [
+          {
+            "name": "广州市嘉禾畜禽交易服务中心",
+            "value": 456,
+            "id": "f6637927-7bcb-4825-afc1-968f180ea887"
+          },
+          {
+            "name": "广州市白云区东旺批发市场",
+            "value": 503,
+            "id": "9a982612-0709-4d27-a3f7-1a60de673271"
+          },
+          {
+            "name": "广州市西城同德鞋业基地",
+            "value": 700,
+            "id": "c2ce0093-c085-4a5c-bd02-a098e93a6eed"
+          },
+          {
+            "name": "广州市广大皮具商贸城",
+            "value": 906,
+            "id": "b7b4b5ef-6894-47ad-a220-b9262bc097a7"
+          },
+          {
+            "name": "广州白云摩托车配件批发市场",
+            "value": 1034,
+            "id": "246d0ad2-264a-45ab-be92-4c433c173ab0"
+          },
+          {
+            "name": "广东天健国际家居装饰商贸广场",
+            "value": 1072,
+            "id": "de88763c-1e19-4c73-aee0-56cca6339c07"
+          },
+          {
+            "name": "广州市宝翔家禽批发市场",
+            "value": 1140,
+            "id": "303a774d-1705-41cd-8e4f-4102d566b9c3"
+          },
+          {
+            "name": "广州市江秾汇市场",
+            "value": 2675,
+            "id": "c6a8845f-f780-4d28-bfb2-3fb24a7866c4"
+          },
+          {
+            "name": "广州白云世界皮具贸易中心",
+            "value": 4135,
+            "id": "dd828558-dc35-4433-91c7-d3c6d1d6329d"
+          },
+          {
+            "name": "广州江南果菜批发市场",
+            "value": 5478.39,
+            "id": "26c4f712-05c2-410f-926c-f81d553b295a"
+          }
+        ],
+        "unit": "万元"
+      }
+    }
+  },
+  "professionMarketMap": {
+    "status": 0,
+    "obj": {
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "滨江街",
+          "value": 0,
+          "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+        },
+        {
+          "name": "昌岗街",
+          "value": 0,
+          "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+        },
+        {
+          "name": "赤岗街",
+          "value": 0,
+          "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+        },
+        {
+          "name": "凤阳街",
+          "value": 0,
+          "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+        },
+        {
+          "name": "官洲街",
+          "value": 1,
+          "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+        },
+        {
+          "name": "海幢街",
+          "value": 1,
+          "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+        },
+        {
+          "name": "华洲街",
+          "value": 1,
+          "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+        },
+        {
+          "name": "江海街",
+          "value": 1,
+          "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+        },
+        {
+          "name": "江南中街",
+          "value": 2,
+          "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+        },
+        {
+          "name": "龙凤街",
+          "value": 2,
+          "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+        },
+        {
+          "name": "南华西街",
+          "value": 2,
+          "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+        },
+        {
+          "name": "南石头街",
+          "value": 2,
+          "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+        },
+        {
+          "name": "南洲街",
+          "value": 3,
+          "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+        },
+        {
+          "name": "琶洲街",
+          "value": 4,
+          "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+        },
+        {
+          "name": "瑞宝街",
+          "value": 4,
+          "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+        },
+        {
+          "name": "沙园街",
+          "value": 4,
+          "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+        },
+        {
+          "name": "素社街",
+          "value": 4,
+          "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+        },
+        {
+          "name": "新港街",
+          "value": 5,
+          "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+        }
+      ],
+      "year": 2017
+    }
+  },
+  "businessMap": {
+    "status": 0,
+    "obj": {
+      "ChartData":{
+        "seriesData":[
+          {
+            "data":[
+              {"id":"73711f5c-f665-4348-814b-a6d0012839a6","name":"金沙街","value":0.20},
+              {"id":"2057238d-d89f-4fbc-8364-a6d0012839a6","name":"石门街","value":0},
+              {"id":"ec36a381-6669-4f7b-bb58-a6d0012839a6","name":"嘉禾街","value":0.10},
+              {"id":"d197eb5f-601d-4c4a-8912-a6d0012839a6","name":"同德街","value":0.09},
+              {"id":"fc75b943-a942-482d-a586-a6d0012839a6","name":"白云湖街","value":0},
+              {"id":"97d865f5-5b21-4182-9309-a6d0012839a6","name":"人和镇","value":0.10},
+              {"id":"02e77949-d49a-477c-9693-a6d0012839a6","name":"钟落潭镇","value":0.22},
+              {"id":"925fa71f-d1b8-4072-9c62-a6d0012839a6","name":"松洲街","value":0.27},
+              {"id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6","name":"同和街","value":0.66},
+              {"id":"78da3e28-9ffb-4337-a61d-a6d0012839a6","name":"均禾街","value":0.04},
+              {"id":"d208f345-861d-4a86-8770-a6d0012839a6","name":"江高镇","value":0.01},
+              {"id":"6fb18a2b-6819-4416-a277-a6d0012839a6","name":"太和镇","value":0.09},
+              {"id":"790d33f5-b218-42c2-a85c-a6d0012839a6","name":"新市街","value":0.07},
+              {"id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6","name":"棠景街","value":0.23},
+              {"id":"73fc4876-91c9-48f6-9655-a6d0012839a6","name":"鹤龙街","value":0.27},
+              {"id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6","name":"石井街","value":0.15},
+              {"id":"0f57831e-9bdb-4809-812f-a6d0012839a6","name":"黄石街","value":0.22},
+              {"id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6","name":"景泰街","value":0.51},
+              {"id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6","name":"云城街","value":2.73},
+              {"id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6","name":"永平街","value":0.24},
+              {"id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6","name":"三元里街","value":1.13},
+              {"id":"36ab2a28-a784-4755-80ff-a6d0012839a6","name":"京溪街","value":0.82}
+            ],
+            "name":"餐饮业",
+            "unit":"亿元"
+          },
+          {
+            "data": [
+              {"id":"73711f5c-f665-4348-814b-a6d0012839a6","name":"金沙街","value":0.02},
+              {"id":"2057238d-d89f-4fbc-8364-a6d0012839a6","name":"石门街","value":0},
+              {"id":"ec36a381-6669-4f7b-bb58-a6d0012839a6","name":"嘉禾街","value":0},
+              {"id":"d197eb5f-601d-4c4a-8912-a6d0012839a6","name":"同德街","value":0},
+              {"id":"fc75b943-a942-482d-a586-a6d0012839a6","name":"白云湖街","value":0},
+              {"id":"97d865f5-5b21-4182-9309-a6d0012839a6","name":"人和镇","value":1.07},
+              {"id":"02e77949-d49a-477c-9693-a6d0012839a6","name":"钟落潭镇","value":0.07},
+              {"id":"925fa71f-d1b8-4072-9c62-a6d0012839a6","name":"松洲街","value":0.14},
+              {"id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6","name":"同和街","value":1.52},
+              {"id":"78da3e28-9ffb-4337-a61d-a6d0012839a6","name":"均禾街","value":0.01},
+              {"id":"d208f345-861d-4a86-8770-a6d0012839a6","name":"江高镇","value":0},
+              {"id":"6fb18a2b-6819-4416-a277-a6d0012839a6","name":"太和镇","value":0.01},
+              {"id":"790d33f5-b218-42c2-a85c-a6d0012839a6","name":"新市街","value":0.11},
+              {"id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6","name":"棠景街","value":1.01},
+              {"id":"73fc4876-91c9-48f6-9655-a6d0012839a6","name":"鹤龙街","value":0},
+              {"id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6","name":"石井街","value":0},
+              {"id":"0f57831e-9bdb-4809-812f-a6d0012839a6","name":"黄石街","value":0.84},
+              {"id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6","name":"景泰街","value":0.98},
+              {"id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6","name":"云城街","value":0.69},
+              {"id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6","name":"永平街","value":0.82},
+              {"id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6","name":"三元里街","value":2.75},
+              {"id":"36ab2a28-a784-4755-80ff-a6d0012839a6","name":"京溪街","value":0.45}
+            ],
+            "name":"住宿业",
+            "unit":"亿元"
+          },
+          {
+            "data":[
+              {"id":"73711f5c-f665-4348-814b-a6d0012839a6","name":"金沙街","value":0.12},
+              {"id":"2057238d-d89f-4fbc-8364-a6d0012839a6","name":"石门街","value":0},
+              {"id":"ec36a381-6669-4f7b-bb58-a6d0012839a6","name":"嘉禾街","value":1.76},
+              {"id":"d197eb5f-601d-4c4a-8912-a6d0012839a6","name":"同德街","value":0.87},
+              {"id":"fc75b943-a942-482d-a586-a6d0012839a6","name":"白云湖街","value":1.43},
+              {"id":"97d865f5-5b21-4182-9309-a6d0012839a6","name":"人和镇","value":6.58},
+              {"id":"02e77949-d49a-477c-9693-a6d0012839a6","name":"钟落潭镇","value":1.71},
+              {"id":"925fa71f-d1b8-4072-9c62-a6d0012839a6","name":"松洲街","value":2.74},
+              {"id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6","name":"同和街","value":13.07},
+              {"id":"78da3e28-9ffb-4337-a61d-a6d0012839a6","name":"均禾街","value":5.46},
+              {"id":"d208f345-861d-4a86-8770-a6d0012839a6","name":"江高镇","value":3.15},
+              {"id":"6fb18a2b-6819-4416-a277-a6d0012839a6","name":"太和镇","value":4.68},
+              {"id":"790d33f5-b218-42c2-a85c-a6d0012839a6","name":"新市街","value":12.30},
+              {"id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6","name":"棠景街","value":4.28},
+              {"id":"73fc4876-91c9-48f6-9655-a6d0012839a6","name":"鹤龙街","value":33.47},
+              {"id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6","name":"石井街","value":15.64},
+              {"id":"0f57831e-9bdb-4809-812f-a6d0012839a6","name":"黄石街","value":44.34},
+              {"id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6","name":"景泰街","value":21.57},
+              {"id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6","name":"云城街","value":79.76},
+              {"id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6","name":"永平街","value":114.65},
+              {"id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6","name":"三元里街","value":35.36},
+              {"id":"36ab2a28-a784-4755-80ff-a6d0012839a6","name":"京溪街","value":24.13}
+            ],
+            "name":"零售业",
+            "unit":"亿元"
+          },
+          {
+            "data":[
+              {"id":"73711f5c-f665-4348-814b-a6d0012839a6","name":"金沙街","value":2.98},
+              {"id":"2057238d-d89f-4fbc-8364-a6d0012839a6","name":"石门街","value":5.79},
+              {"id":"ec36a381-6669-4f7b-bb58-a6d0012839a6","name":"嘉禾街","value":4.82},
+              {"id":"d197eb5f-601d-4c4a-8912-a6d0012839a6","name":"同德街","value":6.79},
+              {"id":"fc75b943-a942-482d-a586-a6d0012839a6","name":"白云湖街","value":11.20},
+              {"id":"97d865f5-5b21-4182-9309-a6d0012839a6","name":"人和镇","value":11.08},
+              {"id":"02e77949-d49a-477c-9693-a6d0012839a6","name":"钟落潭镇","value":22.23},
+              {"id":"925fa71f-d1b8-4072-9c62-a6d0012839a6","name":"松洲街","value":24.40},
+              {"id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6","name":"同和街","value":14.31},
+              {"id":"78da3e28-9ffb-4337-a61d-a6d0012839a6","name":"均禾街","value":31.62},
+              {"id":"d208f345-861d-4a86-8770-a6d0012839a6","name":"江高镇","value":37.82},
+              {"id":"6fb18a2b-6819-4416-a277-a6d0012839a6","name":"太和镇","value":38.46},
+              {"id":"790d33f5-b218-42c2-a85c-a6d0012839a6","name":"新市街","value":31.08},
+              {"id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6","name":"棠景街","value":48.39},
+              {"id":"73fc4876-91c9-48f6-9655-a6d0012839a6","name":"鹤龙街","value":24.43},
+              {"id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6","name":"石井街","value":43.20},
+              {"id":"0f57831e-9bdb-4809-812f-a6d0012839a6","name":"黄石街","value":21.16},
+              {"id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6","name":"景泰街","value":53.76},
+              {"id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6","name":"云城街","value":27.07},
+              {"id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6","name":"永平街","value":35.74},
+              {"id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6","name":"三元里街","value":285.98},
+              {"id":"36ab2a28-a784-4755-80ff-a6d0012839a6","name":"京溪街","value":355.90}
+            ],
+            "name":"批发业",
+            "unit":"亿元"
+          }
+        ],
+        "yAxisData":["金沙街","石门街","嘉禾街","同德街","白云湖街","人和镇","钟落潭镇","松洲街","同和街","均禾街","江高镇","太和镇","新市街","棠景街","鹤龙街","石井街","黄石街","景泰街","云城街","永平街","三元里街","京溪街"],
+        "legendDataList":["批发业","零售业","住宿业","餐饮业"]
+      }
+    }
+  },
+  "industryZoneData": {
+    "status": 0,
+    "obj": {
+      "ZoneData": [
+        {
+          "id": "36ab2a28-a784-4755-80ff-a6d0012839a6",
+          "name": "滨江街",
+          "value": 381.36,
+          "unit": "亿元",
+          "ranking": 1,
+          "sortTotal": 38135668000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "商业",
+              "value": 381.3,
+              "yoy": 25
+            },
+            {
+              "name": "服务业",
+              "value": 0.06,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+          "name": "昌岗街",
+          "value": 330.61,
+          "unit": "亿元",
+          "ranking": 2,
+          "sortTotal": 33061289000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 5.21,
+              "yoy": -4
+            },
+            {
+              "name": "商业",
+              "value": 325.22,
+              "yoy": 25
+            },
+            {
+              "name": "服务业",
+              "value": 0.18,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "d208f345-861d-4a86-8770-a6d0012839a6",
+          "name": "赤岗街",
+          "value": 290.61,
+          "unit": "亿元",
+          "ranking": 3,
+          "sortTotal": 29061381790,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 249.63,
+              "yoy": -4
+            },
+            {
+              "name": "商业",
+              "value": 40.98,
+              "yoy": 5
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "6fb18a2b-6819-4416-a277-a6d0012839a6",
+          "name": "凤阳街",
+          "value": 163.29,
+          "unit": "亿元",
+          "ranking": 4,
+          "sortTotal": 16329489110,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 120.06,
+              "yoy": 5
+            },
+            {
+              "name": "商业",
+              "value": 43.23,
+              "yoy": 39
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+          "name": "官洲街",
+          "value": 156.61,
+          "unit": "亿元",
+          "ranking": 5,
+          "sortTotal": 15660312100,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 5.16,
+              "yoy": -22
+            },
+            {
+              "name": "商业",
+              "value": 151.45,
+              "yoy": -19
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "02e77949-d49a-477c-9693-a6d0012839a6",
+          "name": "海幢街",
+          "value": 128.76,
+          "unit": "亿元",
+          "ranking": 6,
+          "sortTotal": 12876568220,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 104.54,
+              "yoy": 17
+            },
+            {
+              "name": "商业",
+              "value": 24.22,
+              "yoy": 57
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+          "name": "华洲街",
+          "value": 110.25,
+          "unit": "亿元",
+          "ranking": 7,
+          "sortTotal": 11024947000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 0,
+              "yoy": 0
+            },
+            {
+              "name": "商业",
+              "value": 110.25,
+              "yoy": -70
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "97d865f5-5b21-4182-9309-a6d0012839a6",
+          "name": "江海街",
+          "value": 79.78,
+          "unit": "亿元",
+          "ranking": 8,
+          "sortTotal": 7977867480,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 59.63,
+              "yoy": -3
+            },
+            {
+              "name": "商业",
+              "value": 18.84,
+              "yoy": 46
+            },
+            {
+              "name": "服务业",
+              "value": 1.31,
+              "yoy": -98
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+          "name": "江南中街",
+          "value": 79.03,
+          "unit": "亿元",
+          "ranking": 9,
+          "sortTotal": 7903298000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 1.63,
+              "yoy": -10
+            },
+            {
+              "name": "商业",
+              "value": 76.82,
+              "yoy": 27
+            },
+            {
+              "name": "服务业",
+              "value": 0.58,
+              "yoy": -97
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+          "name": "龙凤街",
+          "value": 70.5,
+          "unit": "亿元",
+          "ranking": 10,
+          "sortTotal": 7050054980,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 10.49,
+              "yoy": 5
+            },
+            {
+              "name": "商业",
+              "value": 58.99,
+              "yoy": 9
+            },
+            {
+              "name": "服务业",
+              "value": 1.02,
+              "yoy": -90
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "0f57831e-9bdb-4809-812f-a6d0012839a6",
+          "name": "南华西街",
+          "value": 69.23,
+          "unit": "亿元",
+          "ranking": 11,
+          "sortTotal": 6923025000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 2.67,
+              "yoy": 4
+            },
+            {
+              "name": "商业",
+              "value": 66.56,
+              "yoy": -6
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "78da3e28-9ffb-4337-a61d-a6d0012839a6",
+          "name": "南石头街",
+          "value": 66.5,
+          "unit": "亿元",
+          "ranking": 12,
+          "sortTotal": 6650733770,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 29.37,
+              "yoy": 9
+            },
+            {
+              "name": "商业",
+              "value": 37.13,
+              "yoy": -4
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": 0
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "73fc4876-91c9-48f6-9655-a6d0012839a6",
+          "name": "南洲街",
+          "value": 63.59,
+          "unit": "亿元",
+          "ranking": 13,
+          "sortTotal": 6359447310,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 5.01,
+              "yoy": -12
+            },
+            {
+              "name": "商业",
+              "value": 58.17,
+              "yoy": 81
+            },
+            {
+              "name": "服务业",
+              "value": 0.41,
+              "yoy": -92
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+          "name": "琶洲街",
+          "value": 59.87,
+          "unit": "亿元",
+          "ranking": 14,
+          "sortTotal": 5987130000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 3.65,
+              "yoy": -1
+            },
+            {
+              "name": "商业",
+              "value": 53.91,
+              "yoy": 30
+            },
+            {
+              "name": "服务业",
+              "value": 2.31,
+              "yoy": -96
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "fc75b943-a942-482d-a586-a6d0012839a6",
+          "name": "瑞宝街",
+          "value": 53.12,
+          "unit": "亿元",
+          "ranking": 15,
+          "sortTotal": 5311274530,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 40.49,
+              "yoy": -9
+            },
+            {
+              "name": "商业",
+              "value": 12.63,
+              "yoy": 131
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": 0
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        },
+        {
+          "id": "790d33f5-b218-42c2-a85c-a6d0012839a6",
+          "name": "沙园街",
+          "value": 43.56,
+          "unit": "亿元",
+          "ranking": 16,
+          "sortTotal": 4355723000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "商业",
+              "value": 43.56,
+              "yoy": -14
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+          "name": "素社街",
+          "value": 43.48,
+          "unit": "亿元",
+          "ranking": 17,
+          "sortTotal": 4348578000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 13.94,
+              "yoy": 6
+            },
+            {
+              "name": "商业",
+              "value": 29.54,
+              "yoy": 1
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": -100
+            }
+          ]
+        },
+        {
+          "id": "925fa71f-d1b8-4072-9c62-a6d0012839a6",
+          "name": "新港街",
+          "value": 29.91,
+          "unit": "亿元",
+          "ranking": 18,
+          "sortTotal": 2991028000,
+          "selectedItem": [
+            {
+              "name": "工业",
+              "value": 2.36,
+              "yoy": -22
+            },
+            {
+              "name": "商业",
+              "value": 27.55,
+              "yoy": 23
+            },
+            {
+              "name": "服务业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "建筑业",
+              "value": 0,
+              "yoy": -100
+            },
+            {
+              "name": "房地产",
+              "value": 0,
+              "yoy": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "industrySeriesData": {
+      "status": 0,
+       "obj": {
+         "seriesData": [
+           {
+             "data":[
+               {
+                 "id":"d151abbf-f16d-44ce-8bf5-a6d0012839a6",
+                 "name":"民科园",
+                 "value":0
+               },
+               {
+                 "id":"73711f5c-f665-4348-814b-a6d0012839a6",
+                 "name":"金沙街",
+                 "value":0
+               },
+               {
+                 "id":"ec36a381-6669-4f7b-bb58-a6d0012839a6",
+                 "name":"嘉禾街",
+                 "value":5.15
+               },
+               {
+                 "id":"d197eb5f-601d-4c4a-8912-a6d0012839a6",
+                 "name":"同德街",
+                 "value":10.61
+               },
+               {
+                 "id":"2057238d-d89f-4fbc-8364-a6d0012839a6",
+                 "name":"石门街",
+                 "value":15.07
+               },
+               {
+                 "id":"925fa71f-d1b8-4072-9c62-a6d0012839a6",
+                 "name":"松洲街",
+                 "value":2.36
+               },
+               {
+                 "id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+                 "name":"同和街",
+                 "value":13.94
+               },
+               {
+                 "id":"790d33f5-b218-42c2-a85c-a6d0012839a6",
+                 "name":"新市街",
+                 "value":0
+               },
+               {
+                 "id":"fc75b943-a942-482d-a586-a6d0012839a6",
+                 "name":"白云湖街",
+                 "value":40.49
+               },
+               {
+                 "id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+                 "name":"棠景街",
+                 "value":3.65
+               },
+               {
+                 "id":"73fc4876-91c9-48f6-9655-a6d0012839a6",
+                 "name":"鹤龙街",
+                 "value":5.01
+               },
+               {
+                 "id":"78da3e28-9ffb-4337-a61d-a6d0012839a6",
+                 "name":"均禾街",
+                 "value":29.37
+               },
+               {
+                 "id":"0f57831e-9bdb-4809-812f-a6d0012839a6",
+                 "name":"黄石街",
+                 "value":2.67
+               },
+               {
+                 "id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+                 "name":"石井街",
+                 "value":10.49
+               },
+               {
+                 "id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+                 "name":"景泰街",
+                 "value":1.63
+               },
+               {
+                 "id":"97d865f5-5b21-4182-9309-a6d0012839a6",
+                 "name":"人和镇",
+                 "value":59.63
+               },
+               {
+                 "id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+                 "name":"云城街",
+                 "value":0
+               },
+               {
+                 "id":"02e77949-d49a-477c-9693-a6d0012839a6",
+                 "name":"钟落潭镇",
+                 "value":104.54
+               },
+               {
+                 "id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+                 "name":"永平街",
+                 "value":5.16
+               },
+               {
+                 "id":"6fb18a2b-6819-4416-a277-a6d0012839a6",
+                 "name":"太和镇",
+                 "value":120.06
+               },
+               {
+                 "id":"d208f345-861d-4a86-8770-a6d0012839a6",
+                 "name":"江高镇",
+                 "value":249.63
+               },
+               {
+                 "id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+                 "name":"三元里街",
+                 "value":5.21
+               },
+               {
+                 "id":"36ab2a28-a784-4755-80ff-a6d0012839a6",
+                 "name":"京溪街",
+                 "value":0
+               }
+             ],
+             "name":"工业",
+             "unit":"亿"
+           },
+           {
+             "data":[
+               {
+                 "id":"d151abbf-f16d-44ce-8bf5-a6d0012839a6",
+                 "name":"民科园",
+                 "value":0
+               },
+               {
+                 "id":"73711f5c-f665-4348-814b-a6d0012839a6",
+                 "name":"金沙街",
+                 "value":3.32
+               },
+               {
+                 "id":"ec36a381-6669-4f7b-bb58-a6d0012839a6",
+                 "name":"嘉禾街",
+                 "value":6.69
+               },
+               {
+                 "id":"d197eb5f-601d-4c4a-8912-a6d0012839a6",
+                 "name":"同德街",
+                 "value":7.75
+               },
+               {
+                 "id":"2057238d-d89f-4fbc-8364-a6d0012839a6",
+                 "name":"石门街",
+                 "value":5.79
+               },
+               {
+                 "id":"925fa71f-d1b8-4072-9c62-a6d0012839a6",
+                 "name":"松洲街",
+                 "value":27.55
+               },
+               {
+                 "id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+                 "name":"同和街",
+                 "value":29.54
+               },
+               {
+                 "id":"790d33f5-b218-42c2-a85c-a6d0012839a6",
+                 "name":"新市街",
+                 "value":43.56
+               },
+               {
+                 "id":"fc75b943-a942-482d-a586-a6d0012839a6",
+                 "name":"白云湖街",
+                 "value":12.63
+               },
+               {
+                 "id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+                 "name":"棠景街",
+                 "value":53.91
+               },
+               {
+                 "id":"73fc4876-91c9-48f6-9655-a6d0012839a6",
+                 "name":"鹤龙街",
+                 "value":58.17
+               },
+               {
+                 "id":"78da3e28-9ffb-4337-a61d-a6d0012839a6",
+                 "name":"均禾街",
+                 "value":37.13
+               },
+               {
+                 "id":"0f57831e-9bdb-4809-812f-a6d0012839a6",
+                 "name":"黄石街",
+                 "value":66.56
+               },
+               {
+                 "id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+                 "name":"石井街",
+                 "value":58.99
+               },
+               {
+                 "id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+                 "name":"景泰街",
+                 "value":76.82
+               },
+               {
+                 "id":"97d865f5-5b21-4182-9309-a6d0012839a6",
+                 "name":"人和镇",
+                 "value":18.84
+               },
+               {
+                 "id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+                 "name":"云城街",
+                 "value":110.25
+               },
+               {
+                 "id":"02e77949-d49a-477c-9693-a6d0012839a6",
+                 "name":"钟落潭镇",
+                 "value":24.22
+               },
+               {
+                 "id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+                 "name":"永平街",
+                 "value":151.45
+               },
+               {
+                 "id":"6fb18a2b-6819-4416-a277-a6d0012839a6",
+                 "name":"太和镇",
+                 "value":43.23
+               },
+               {
+                 "id":"d208f345-861d-4a86-8770-a6d0012839a6",
+                 "name":"江高镇",
+                 "value":40.98
+               },
+               {
+                 "id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+                 "name":"三元里街",
+                 "value":325.22
+               },
+               {
+                 "id":"36ab2a28-a784-4755-80ff-a6d0012839a6",
+                 "name":"京溪街",
+                 "value":381.3
+               }
+             ],
+             "name":"商业",
+             "unit":"亿"
+           },
+           {
+             "data":[
+               {
+                 "id":"d151abbf-f16d-44ce-8bf5-a6d0012839a6",
+                 "name":"民科园",
+                 "value":0
+               },
+               {
+                 "id":"73711f5c-f665-4348-814b-a6d0012839a6",
+                 "name":"金沙街",
+                 "value":0
+               },
+               {
+                 "id":"ec36a381-6669-4f7b-bb58-a6d0012839a6",
+                 "name":"嘉禾街",
+                 "value":0
+               },
+               {
+                 "id":"d197eb5f-601d-4c4a-8912-a6d0012839a6",
+                 "name":"同德街",
+                 "value":0
+               },
+               {
+                 "id":"2057238d-d89f-4fbc-8364-a6d0012839a6",
+                 "name":"石门街",
+                 "value":0
+               },
+               {
+                 "id":"925fa71f-d1b8-4072-9c62-a6d0012839a6",
+                 "name":"松洲街",
+                 "value":0
+               },
+               {
+                 "id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+                 "name":"同和街",
+                 "value":0
+               },
+               {
+                 "id":"790d33f5-b218-42c2-a85c-a6d0012839a6",
+                 "name":"新市街",
+                 "value":0
+               },
+               {
+                 "id":"fc75b943-a942-482d-a586-a6d0012839a6",
+                 "name":"白云湖街",
+                 "value":0
+               },
+               {
+                 "id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+                 "name":"棠景街",
+                 "value":2.31
+               },
+               {
+                 "id":"73fc4876-91c9-48f6-9655-a6d0012839a6",
+                 "name":"鹤龙街",
+                 "value":0.41
+               },
+               {
+                 "id":"78da3e28-9ffb-4337-a61d-a6d0012839a6",
+                 "name":"均禾街",
+                 "value":0
+               },
+               {
+                 "id":"0f57831e-9bdb-4809-812f-a6d0012839a6",
+                 "name":"黄石街",
+                 "value":0
+               },
+               {
+                 "id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+                 "name":"石井街",
+                 "value":1.02
+               },
+               {
+                 "id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+                 "name":"景泰街",
+                 "value":0.58
+               },
+               {
+                 "id":"97d865f5-5b21-4182-9309-a6d0012839a6",
+                 "name":"人和镇",
+                 "value":1.31
+               },
+               {
+                 "id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+                 "name":"云城街",
+                 "value":0
+               },
+               {
+                 "id":"02e77949-d49a-477c-9693-a6d0012839a6",
+                 "name":"钟落潭镇",
+                 "value":0
+               },
+               {
+                 "id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+                 "name":"永平街",
+                 "value":0
+               },
+               {
+                 "id":"6fb18a2b-6819-4416-a277-a6d0012839a6",
+                 "name":"太和镇",
+                 "value":0
+               },
+               {
+                 "id":"d208f345-861d-4a86-8770-a6d0012839a6",
+                 "name":"江高镇",
+                 "value":0
+               },
+               {
+                 "id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+                 "name":"三元里街",
+                 "value":0.18
+               },
+               {
+                 "id":"36ab2a28-a784-4755-80ff-a6d0012839a6",
+                 "name":"京溪街",
+                 "value":0.06
+               }
+             ],
+             "name":"服务业",
+             "unit":"亿"
+           },
+           {
+             "data":[
+               {
+                 "id":"d151abbf-f16d-44ce-8bf5-a6d0012839a6",
+                 "name":"民科园",
+                 "value":0
+               },
+               {
+                 "id":"73711f5c-f665-4348-814b-a6d0012839a6",
+                 "name":"金沙街",
+                 "value":0
+               },
+               {
+                 "id":"ec36a381-6669-4f7b-bb58-a6d0012839a6",
+                 "name":"嘉禾街",
+                 "value":0
+               },
+               {
+                 "id":"d197eb5f-601d-4c4a-8912-a6d0012839a6",
+                 "name":"同德街",
+                 "value":0
+               },
+               {
+                 "id":"2057238d-d89f-4fbc-8364-a6d0012839a6",
+                 "name":"石门街",
+                 "value":0
+               },
+               {
+                 "id":"925fa71f-d1b8-4072-9c62-a6d0012839a6",
+                 "name":"松洲街",
+                 "value":0
+               },
+               {
+                 "id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+                 "name":"同和街",
+                 "value":0
+               },
+               {
+                 "id":"790d33f5-b218-42c2-a85c-a6d0012839a6",
+                 "name":"新市街",
+                 "value":0
+               },
+               {
+                 "id":"fc75b943-a942-482d-a586-a6d0012839a6",
+                 "name":"白云湖街",
+                 "value":0
+               },
+               {
+                 "id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+                 "name":"棠景街",
+                 "value":0
+               },
+               {
+                 "id":"73fc4876-91c9-48f6-9655-a6d0012839a6",
+                 "name":"鹤龙街",
+                 "value":0
+               },
+               {
+                 "id":"78da3e28-9ffb-4337-a61d-a6d0012839a6",
+                 "name":"均禾街",
+                 "value":0
+               },
+               {
+                 "id":"0f57831e-9bdb-4809-812f-a6d0012839a6",
+                 "name":"黄石街",
+                 "value":0
+               },
+               {
+                 "id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+                 "name":"石井街",
+                 "value":0
+               },
+               {
+                 "id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+                 "name":"景泰街",
+                 "value":0
+               },
+               {
+                 "id":"97d865f5-5b21-4182-9309-a6d0012839a6",
+                 "name":"人和镇",
+                 "value":0
+               },
+               {
+                 "id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+                 "name":"云城街",
+                 "value":0
+               },
+               {
+                 "id":"02e77949-d49a-477c-9693-a6d0012839a6",
+                 "name":"钟落潭镇",
+                 "value":0
+               },
+               {
+                 "id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+                 "name":"永平街",
+                 "value":0
+               },
+               {
+                 "id":"6fb18a2b-6819-4416-a277-a6d0012839a6",
+                 "name":"太和镇",
+                 "value":0
+               },
+               {
+                 "id":"d208f345-861d-4a86-8770-a6d0012839a6",
+                 "name":"江高镇",
+                 "value":0
+               },
+               {
+                 "id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+                 "name":"三元里街",
+                 "value":0
+               },
+               {
+                 "id":"36ab2a28-a784-4755-80ff-a6d0012839a6",
+                 "name":"京溪街",
+                 "value":0
+               }
+             ],
+             "name":"建筑业",
+             "unit":"亿"
+           },
+           {
+             "data":[
+               {
+                 "id":"d151abbf-f16d-44ce-8bf5-a6d0012839a6",
+                 "name":"民科园",
+                 "value":0
+               },
+               {
+                 "id":"73711f5c-f665-4348-814b-a6d0012839a6",
+                 "name":"金沙街",
+                 "value":0
+               },
+               {
+                 "id":"ec36a381-6669-4f7b-bb58-a6d0012839a6",
+                 "name":"嘉禾街",
+                 "value":0
+               },
+               {
+                 "id":"d197eb5f-601d-4c4a-8912-a6d0012839a6",
+                 "name":"同德街",
+                 "value":0
+               },
+               {
+                 "id":"2057238d-d89f-4fbc-8364-a6d0012839a6",
+                 "name":"石门街",
+                 "value":0
+               },
+               {
+                 "id":"925fa71f-d1b8-4072-9c62-a6d0012839a6",
+                 "name":"松洲街",
+                 "value":0
+               },
+               {
+                 "id":"7c399d2c-d6ff-45a2-b106-a6d0012839a6",
+                 "name":"同和街",
+                 "value":0
+               },
+               {
+                 "id":"790d33f5-b218-42c2-a85c-a6d0012839a6",
+                 "name":"新市街",
+                 "value":0
+               },
+               {
+                 "id":"fc75b943-a942-482d-a586-a6d0012839a6",
+                 "name":"白云湖街",
+                 "value":0
+               },
+               {
+                 "id":"c50e4b9a-9fa4-427e-b069-a6d0012839a6",
+                 "name":"棠景街",
+                 "value":0
+               },
+               {
+                 "id":"73fc4876-91c9-48f6-9655-a6d0012839a6",
+                 "name":"鹤龙街",
+                 "value":0
+               },
+               {
+                 "id":"78da3e28-9ffb-4337-a61d-a6d0012839a6",
+                 "name":"均禾街",
+                 "value":0
+               },
+               {
+                 "id":"0f57831e-9bdb-4809-812f-a6d0012839a6",
+                 "name":"黄石街",
+                 "value":0
+               },
+               {
+                 "id":"93234f4d-e90c-4e27-b4c0-a6d0012839a6",
+                 "name":"石井街",
+                 "value":0
+               },
+               {
+                 "id":"6fe7f15d-b1ea-4780-8b70-a6d0012839a6",
+                 "name":"景泰街",
+                 "value":0
+               },
+               {
+                 "id":"97d865f5-5b21-4182-9309-a6d0012839a6",
+                 "name":"人和镇",
+                 "value":0
+               },
+               {
+                 "id":"350fa0d6-c095-4eb0-88d1-a6d0012839a6",
+                 "name":"云城街",
+                 "value":0
+               },
+               {
+                 "id":"02e77949-d49a-477c-9693-a6d0012839a6",
+                 "name":"钟落潭镇",
+                 "value":0
+               },
+               {
+                 "id":"e1fd785b-69b0-44ba-8adb-a6d0012839a6",
+                 "name":"永平街",
+                 "value":0
+               },
+               {
+                 "id":"6fb18a2b-6819-4416-a277-a6d0012839a6",
+                 "name":"太和镇",
+                 "value":0
+               },
+               {
+                 "id":"d208f345-861d-4a86-8770-a6d0012839a6",
+                 "name":"江高镇",
+                 "value":0
+               },
+               {
+                 "id":"f8bc8f65-631d-4b6f-9ee5-a6d0012839a6",
+                 "name":"三元里街",
+                 "value":0
+               },
+               {
+                 "id":"36ab2a28-a784-4755-80ff-a6d0012839a6",
+                 "name":"京溪街",
+                 "value":0
+               }
+             ],
+             "name":"房地产",
+             "unit":"亿"
+           }
+         ],
+         "yAxisData": [
+           "滨江街",
+           "昌岗街",
+           "赤岗街",
+           "凤阳街",
+           "官洲街",
+           "海幢街",
+           "华洲街",
+           "江海街",
+           "江南中街",
+           "龙凤街",
+           "南华西街",
+           "南石头街",
+           "南洲街",
+           "琶洲街",
+           "瑞宝街",
+           "沙园街",
+           "素社街",
+           "新港街"
+         ],
+         "legendDataList": ["商业", "工业", "服务业", "建筑业", "房地产业"]
+       }
+  },
+  "industryData":{
+    "status":0,
+    "obj":{
+      "enterpriseQuantity":{
+        "legendData":["采矿业","制造业","电力、热力、燃气及水生产和供应业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"采矿业","data":[0,0,0,0,0]},
+          {"name":"制造业","data":[652,690,657,661,554]},
+          {"name":"电力、热力、燃气及水生产和供应业","data":[2,3,3,3,3]}
+        ]},
+      "gdp":{
+        "legendData":["采矿业","制造业","电力、热力、燃气及水生产和供应业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"采矿业","data":[0,0,0,0,0]},
+          {"name":"制造业","data":[595.31,625.88,639.76,647.56,618.84]},
+          {"name":"电力、热力、燃气及水生产和供应业","data":[0.66,0.28,3.11,3.12,3.83]}
+        ]},
+      "tax":{
+        "legendData":["采矿业","制造业","电力、热力、燃气及水生产和供应业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"采矿业","data":[0,0,0,0,0]},
+          {"name":"制造业","data":[21.62,20.67,24.39,25.07,29.33]},
+          {"name":"电力、热力、燃气及水生产和供应业","data":[0.09,0.21,0.34,0.11,0.56]}
+        ]},
+      "gdpShare":{
+        "legendData":["采矿业","制造业","电力、热力、燃气及水生产和供应业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"采矿业","data":[0,0,0,0,0]},
+          {"name":"制造业","data":[99.89,99.96,99.52,99.52,99.38]},
+          {"name":"电力、热力、燃气及水生产和供应业", "data":[0.11,0.04,0.48,0.48,0.62]}
+        ]},
+      "taxShare":{
+        "legendData":["采矿业","制造业","电力、热力、燃气及水生产和供应业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"采矿业","data":[0,0,0,0,0]},
+          {"name":"制造业","data":[99.60,98.99,98.64,99.56,98.11]},
+          {"name":"电力、热力、燃气及水生产和供应业","data":[0.40,1.01,1.36,0.44,1.89]}
+        ]}
+    }
+  },
+  "serviceData":{
+    "status": 0,
+    "obj": {
+      "enterpriseQuantity":{
+        "legendData":["非营利性服务业","营利性服务业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"非营利性服务业","data":[99,111,122,133,139]},
+          {"name":"营利性服务业","data":[262,326,414,433,474]}
+        ]
+      },
+      "gdp":{
+        "legendData":["非营利性服务业","营利性服务业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"非营利性服务业","data":[21.74,27.20,47.75,51.86,1.36]},
+          {"name":"营利性服务业","data":[150.16,171.39,305.53,331.84,4.32]}
+        ]
+      },
+      "tax":{
+        "legendData":["非营利性服务业","营利性服务业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"非营利性服务业","data":[1.49,2.21,2.27,2.90,3.34]},
+          {"name":"营利性服务业","data":[11.68,17.50,20.20,21.42,22.38]}
+        ]
+      },
+      "gdpShare":{
+        "legendData":["非营利性服务业","营利性服务业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"非营利性服务业","data":[12.65,13.70,13.52,13.52,23.98]},
+          {"name":"营利性服务业","data":[87.35,86.30,86.48,86.48,76.02]}
+        ]
+      },
+      "taxShare":{
+        "legendData":["非营利性服务业","营利性服务业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"非营利性服务业","data":[11.35,11.20,10.10,11.93,12.99]},
+          {"name":"营利性服务业","data":[88.65,88.80,89.90,88.07,87.01]}
+        ]
+      }
+    }
+  },
+  "businessData": {
+    "status": 0,
+    "obj": {
+      "enterpriseQuantity":{
+        "legendData":["批发业","零售业","住宿业","餐饮业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"批发业","data":[24,27,26,25]},
+          {"name":"零售业","data":[15,17,18,18]},
+          {"name":"住宿业","data":[11,15,15,17]},
+          {"name":"餐饮业","data":[14,14,15,15]}
+        ]
+      },
+      "gdp":{
+        "legendData":["批发业","零售业","住宿业","餐饮业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"",
+        "seriesData":[
+          {"name":"批发业","data":[24,27,26,25]},
+          {"name":"零售业","data":[15,17,18,18]},
+          {"name":"住宿业","data":[11,15,15,17]},
+          {"name":"餐饮业","data":[14,14,15,15]}
+        ]
+      },
+      "tax":{
+        "legendData":["批发业","零售业","住宿业","餐饮业"],
+        "xAxisData":["2013","2014","2015","2016","2017"],
+        "unit":"亿元",
+        "seriesData":[
+          {"name":"批发业","data":[15.81,20.94,23.64,18.79]},
+          {"name":"零售业","data":[7.31,10.91,13.09,14.73]},
+          {"name":"住宿业","data":[11.11,7.77,16.13,11.74]},
+          {"name":"餐饮业","data":[4.63,1.81,2.47,1.92]}
+        ]
+      },
+      "gdpShare":{
+        "legendData":["批发业","零售业","住宿业","餐饮业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"批发业","data":[40.68,50.55,42.72,39.83]},
+          {"name":"零售业","data":[18.81,26.33,23.66,31.23]},
+          {"name":"住宿业","data":[28.60,18.76,29.15,24.88]},
+          {"name":"餐饮业","data":[11.91,4.36,4.47,4.06]}
+        ]
+      },
+      "taxShare":{
+        "legendData":["批发业","零售业","住宿业","餐饮业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"批发业","data":[40.68,50.55,42.72,39.83]},
+          {"name":"零售业","data":[18.81,26.33,23.66,31.23]},
+          {"name":"住宿业","data":[28.60,18.76,29.15,24.88]},
+          {"name":"餐饮业","data":[11.91,4.36,4.47,4.06]}
+        ]
+      }
+    }
+  },
+  "buildingData": {
+    "status": 0,
+    "obj": {
+      "enterpriseQuantity":{
+        "legendData":["房屋建筑业","土木工程建筑业","建筑安装业","建筑装饰和其他建筑业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房屋建筑业","data":[24,27,26,25]},
+          {"name":"土木工程建筑业","data":[15,17,18,18]},
+          {"name":"建筑安装业","data":[11,15,15,17]},
+          {"name":"建筑装饰和其他建筑业","data":[14,14,15,15]}
+        ]
+      },
+      "gdp":{
+        "legendData":["房屋建筑业","土木工程建筑业","建筑安装业","建筑装饰和其他建筑业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"房屋建筑业","data":[15.81,20.94,23.64,18.79]},
+          {"name":"土木工程建筑业","data":[7.31,10.91,13.09,14.73]},
+          {"name":"建筑安装业","data":[11.11,7.77,16.13,11.74]},
+          {"name":"建筑装饰和其他建筑业","data":[4.63,1.81,2.47,1.92]}
+        ]
+      },
+      "tax":{
+        "legendData":["房屋建筑业","土木工程建筑业","建筑安装业","建筑装饰和其他建筑业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"万",
+        "seriesData":[
+          {"name":"房屋建筑业","data":[3031.90,2614.19,2900.93,4608.14]},
+          {"name":"土木工程建筑业","data":[2020.36,2949.01,3664.67,4907.32]},
+          {"name":"建筑安装业","data":[3993.47,4654.66,4713.39,6228.61]},
+          {"name":"建筑装饰和其他建筑业","data":[1168.08,1668.32,1171.47,972.56]}
+        ]
+      },
+      "gdpShare":{
+        "legendData":["房屋建筑业","土木工程建筑业","建筑安装业","建筑装饰和其他建筑业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房屋建筑业","data":[40.68,50.55,42.72,39.83]},
+          {"name":"土木工程建筑业","data":[18.81,26.33,23.66,31.23]},
+          {"name":"建筑安装业","data":[28.60,18.76,29.15,24.88]},
+          {"name":"建筑装饰和其他建筑业","data":[11.91,4.36,4.47,4.06]}
+        ]
+      },
+      "taxShare":{
+        "legendData":["房屋建筑业","土木工程建筑业","建筑安装业","建筑装饰和其他建筑业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房屋建筑业","data":[29.68,21.99,23.30,27.57]},
+          {"name":"土木工程建筑业","data":[19.78,24.81,29.43,29.36]},
+          {"name":"建筑安装业","data":[39.10,39.16,37.86,37.26]},
+          {"name":"建筑装饰和其他建筑业","data":[11.44,14.04,9.41,5.82]}
+        ]
+      }
+    }
+  },
+  "realEstateData": {
+    "status": 0,
+    "obj": {
+      "enterpriseQuantity":{
+        "legendData":["房地产开发经营","物业管理","房地产中介服务","自有房地产经营活动","其他房地产业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房地产开发经营","data":[41,54,56,54]},
+          {"name":"物业管理","data":[0,0,0,0]},
+          {"name":"房地产中介服务","data":[0,0,0,0]},
+          {"name":"自有房地产经营活动","data":[0,0,0,0]},
+          {"name":"其他房地产业","data":[0,0,0,0]}
+        ]
+      },
+      "gdp":{
+        "legendData":["房地产开发经营","物业管理","房地产中介服务","自有房地产经营活动","其他房地产业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"房地产开发经营","data":[53.85,55.23,60.58,74.69]},
+          {"name":"物业管理","data":[0,0,0,0]},
+          {"name":"房地产中介服务","data":[0,0,0,0]},
+          {"name":"自有房地产经营活动","data":[0,0,0,0]},
+          {"name":"其他房地产业","data":[0,0,0,0]}
+        ]
+      },
+      "tax":{
+        "legendData":["房地产开发经营","物业管理","房地产中介服务","自有房地产经营活动","其他房地产业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"亿",
+        "seriesData":[
+          {"name":"房地产开发经营","data":[4.79,7.53,8.81,11.43]},
+          {"name":"物业管理","data":[0,0,0,0]},
+          {"name":"房地产中介服务","data":[0,0,0,0]},
+          {"name":"自有房地产经营活动","data":[0,0,0,0]},
+          {"name":"其他房地产业","data":[0,0,0,0]}
+        ]
+      },
+      "gdpShare":{
+        "legendData":["房地产开发经营","物业管理","房地产中介服务","自有房地产经营活动","其他房地产业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房地产开发经营","data":[100,100,100,100]},
+          {"name":"物业管理","data":[0,0,0,0]},
+          {"name":"房地产中介服务","data":[0,0,0,0]},
+          {"name":"自有房地产经营活动","data":[0,0,0,0]},
+          {"name":"其他房地产业","data":[0,0,0,0]}
+        ]
+      },
+      "taxShare":{
+        "legendData":["房地产开发经营","物业管理","房地产中介服务","自有房地产经营活动","其他房地产业"],
+        "xAxisData":["2013","2014","2015","2016"],
+        "unit":"",
+        "seriesData":[
+          {"name":"房地产开发经营","data":[100,100,100,100]},
+          {"name":"物业管理","data":[0,0,0,0]},
+          {"name":"房地产中介服务","data":[0,0,0,0]},
+          {"name":"自有房地产经营活动","data":[0,0,0,0]},
+          {"name":"其他房地产业","data":[0,0,0,0]}
+        ]
+      }
+    }
+  },
+  "idustryMapData": {
+    "status": 0,
+    "obj": {
+      "legendDataList": [
+        "采矿业",
+        "制造业",
+        "电力、热力、燃气及水生产和供应业"
+      ],
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "采矿业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "制造业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "serviceMapData": {
+    "status": 0,
+    "obj": {
+      "legendDataList": [
+        "非营利性服务业", "营利性服务业"
+      ],
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "非营利性服务业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "营利性服务业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "businessMapData": {
+    "status": 0,
+    "obj": {
+      "legendDataList": [
+        "批发业", "零售业", "住宿业", "餐饮业"
+      ],
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "批发业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "零售业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "住宿业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "餐饮业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "realEstateMapData": {
+    "status": 0,
+    "obj": {
+      "legendDataList": ["房地产开发经营", "物业管理", "房地产中介服务", "自有房地产经营活动", "其他房地产业"],
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "房地产开发经营",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "物业管理",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "房地产中介服务",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "自有房地产经营活动",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "其他房地产业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "buildingMapData": {
+    "status": 0,
+    "obj": {
+      "legendDataList": [
+        "房屋建筑业", "土木工程建筑业", "建筑安装业", "建筑装饰和其他建筑业"
+      ],
+      "yAxisData": [
+        "滨江街",
+        "昌岗街",
+        "赤岗街",
+        "凤阳街",
+        "官洲街",
+        "海幢街",
+        "华洲街",
+        "江海街",
+        "江南中街",
+        "龙凤街",
+        "南华西街",
+        "南石头街",
+        "南洲街",
+        "琶洲街",
+        "瑞宝街",
+        "沙园街",
+        "素社街",
+        "新港街"
+      ],
+      "seriesData": [
+        {
+          "name": "房屋建筑业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "土木工程建筑业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "建筑安装业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        },
+        {
+          "name": "建筑装饰和其他建筑业",
+          "unit": "亿元",
+          "data": [
+            {
+              "name": "滨江街",
+              "value": 0,
+              "streetId": "97d865f5-5b21-4182-9309-a6d0012839a6"
+            },
+            {
+              "name": "昌岗街",
+              "value": 0,
+              "streetId": "d151abbf-f16d-44ce-8bf5-a6d0012839a6"
+            },
+            {
+              "name": "赤岗街",
+              "value": 0,
+              "streetId": "73711f5c-f665-4348-814b-a6d0012839a6"
+            },
+            {
+              "name": "凤阳街",
+              "value": 0,
+              "streetId": "2057238d-d89f-4fbc-8364-a6d0012839a6"
+            },
+            {
+              "name": "官洲街",
+              "value": 1,
+              "streetId": "73fc4876-91c9-48f6-9655-a6d0012839a6"
+            },
+            {
+              "name": "海幢街",
+              "value": 1,
+              "streetId": "7c399d2c-d6ff-45a2-b106-a6d0012839a6"
+            },
+            {
+              "name": "华洲街",
+              "value": 1,
+              "streetId": "02e77949-d49a-477c-9693-a6d0012839a6"
+            },
+            {
+              "name": "江海街",
+              "value": 1,
+              "streetId": "d208f345-861d-4a86-8770-a6d0012839a6"
+            },
+            {
+              "name": "江南中街",
+              "value": 2,
+              "streetId": "e1fd785b-69b0-44ba-8adb-a6d0012839a6"
+            },
+            {
+              "name": "龙凤街",
+              "value": 2,
+              "streetId": "d197eb5f-601d-4c4a-8912-a6d0012839a6"
+            },
+            {
+              "name": "南华西街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南石头街",
+              "value": 2,
+              "streetId": "6fe7f15d-b1ea-4780-8b70-a6d0012839a6"
+            },
+            {
+              "name": "南洲街",
+              "value": 3,
+              "streetId": "36ab2a28-a784-4755-80ff-a6d0012839a6"
+            },
+            {
+              "name": "琶洲街",
+              "value": 4,
+              "streetId": "fc75b943-a942-482d-a586-a6d0012839a6"
+            },
+            {
+              "name": "瑞宝街",
+              "value": 4,
+              "streetId": "790d33f5-b218-42c2-a85c-a6d0012839a6"
+            },
+            {
+              "name": "沙园街",
+              "value": 4,
+              "streetId": "350fa0d6-c095-4eb0-88d1-a6d0012839a6"
+            },
+            {
+              "name": "素社街",
+              "value": 4,
+              "streetId": "c50e4b9a-9fa4-427e-b069-a6d0012839a6"
+            },
+            {
+              "name": "新港街",
+              "value": 5,
+              "streetId": "ec36a381-6669-4f7b-bb58-a6d0012839a6"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

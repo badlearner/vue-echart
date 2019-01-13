@@ -1,0 +1,13 @@
+{
+  "status":0,
+  "obj": {
+    "legendData":["工商行政管理局","食药监督管理局","国税局","地税局","其他"],
+    "seriesData": [
+      {"value":35, "name":"工商行政管理局","selected":true},
+      {"value":435, "name":"食药监督管理局"},
+      {"value":335, "name":"国税局"},
+      {"value":435, "name":"地税局"},
+      {"value":435, "name":"其他"}
+    ]
+  }
+}

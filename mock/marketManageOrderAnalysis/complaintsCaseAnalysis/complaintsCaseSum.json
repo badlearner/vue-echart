@@ -1,0 +1,168 @@
+{
+  "status":0,
+  "obj": {
+    "xAxisData": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "seriesData": [
+      {
+        "name": "争议金额",
+        "data": [
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":900.49,"growth": 0},
+          {"value":121.92,"growth": -86.46},
+          {"value":249.67,"growth": 104.78}
+        ]
+      },
+      {
+        "name": "挽回经济损失",
+        "data": [
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":0,"growth": 0},
+          {"value":516.04,"growth": 0},
+          {"value":61.52,"growth": -88.08},
+          {"value":55.29,"growth": -10.13}
+        ]
+      },
+      { "name":"投诉案件争议金额排名Top5",
+        "data":[
+          { "year":2011,
+            "data":[
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0}
+            ]
+          },{
+            "year":2012,
+            "data":[
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0}
+            ]
+          },{
+            "year":2013,
+            "data":[
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0}
+            ]
+          },{
+            "year":2014,
+            "data":[
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0},
+              {"name":"","value":0,"growth":0}
+            ]
+          },{
+            "year":2015,
+            "data":[
+              {"name":"交通工具","value":288.15,"growth": 0},
+              {"name":"日用百货类","value":191.47,"growth": 0},
+              {"name":"其他（服务类）","value":179.6,"growth": 0},
+              {"name":"修理维护服务","value":63.69,"growth": 0},
+              {"name":"其他（商品类）","value":40.2,"growth": 0}
+            ]
+          },{
+            "year":2016,
+            "data":[
+              {"name":"其他（服务类）","value":28.22,"growth":-84.29},
+              {"name":"其他（商品类）","value":25.12,"growth":-37.51},
+              {"name":"交通工具","value":21.83,"growth":-92.42},
+              {"name":"居民服务","value":10.48,"growth":-72.86},
+              {"name":"通讯器材","value":7.03,"growth":-47.34}
+            ]
+          },{
+            "year":2017,
+            "data":[
+              {"name":"交通工具","value":99.99,"growth":358.04},
+              {"name":"装饰装修服务","value":56.44,"growth":2291.53},
+              {"name":"其他（服务类）","value":25.84,"growth":-8.43},
+              {"name":"其他（商品类）","value":16.7,"growth":-33.52},
+              {"name":"日用百货类","value":13.24,"growth":98.5}
+            ]
+          }]},
+          { "name":"投诉案件挽回经济损失排名Top5",
+            "data":[
+              { "year":2011,
+                "data":[
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0}
+                ]
+              },{
+                "year":2012,
+                "data":[
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0}
+                ]
+              },{
+                "year":2013,
+                "data":[
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0}
+                ]
+              },{
+                "year":2014,
+                "data":[
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0},
+                  {"name":"","value":0,"growth":0}
+                ]
+              },{
+                "year":2015,
+                "data":[
+                  {"name":"日用百货类","value":175.39,"growth": 0},
+                  {"name":"交通工具","value":121.07,"growth": 0},
+                  {"name":"修理维护服务","value":62.89,"growth": 0},
+                  {"name":"其他（服务类）","value":42.81,"growth": 0},
+                  {"name":"居民服务","value":29.53,"growth": 0}
+                ]
+              },{
+                "year":2016,
+                "data":[
+                  {"name":"交通工具","value":16.95,"growth":86},
+                  {"name":"其他（服务类）","value":13.19,"growth":-69.19},
+                  {"name":"其他（商品类）","value":12.57,"growth":-44.55},
+                  {"name":"通讯器材","value":5.11,"growth":-57.77},
+                  {"name":"日用百货类","value":4.64,"growth":-97.35}
+                ]
+              },{
+                "year":2017,
+                "data":[
+                  {"name":"装饰装修服务","value":22.42,"growth":2142},
+                  {"name":"其他（商品类）","value":9.35,"growth":-25.62},
+                  {"name":"其他（服务类）","value":5.75,"growth":-56.41},
+                  {"name":"家用电器类","value":3.58,"growth":143.54},
+                  {"name":"日用百货类","value":3.04,"growth":-34.48}
+                ]
+              }]
+          }
+        ]
+      }
+    }

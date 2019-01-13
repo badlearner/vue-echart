@@ -1,0 +1,12 @@
+{
+  "status":0,
+  "obj": {
+    "legendData":["即时公示未公示","未按时年报","实地查无","年报造假"],
+    "seriesData": [
+      {"value":35, "name":"即时公示未公示","selected":true},
+      {"value":435, "name":"未按时年报"},
+      {"value":335, "name":"实地查无"},
+      {"value":435, "name":"年报造假"}
+    ]
+  }
+}
